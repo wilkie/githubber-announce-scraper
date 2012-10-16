@@ -1,0 +1,988 @@
+{
+  "tags":       ["he", "him", "his", "she", "her", "father", "mother", "gal", "guy", "tool", "ops", "press", "media", "devops", "code", "infrastructure", "database", "developer", "designer", "ux", "ui", "web", "marketing", "seo", "business", "financial", "rails", "operation", "shop", "git", "scm", "scms", "cocoa", "ios", "ruby", "software", "cooking", "enterprise", "support", "administration", "javascript", "supportocat", "community", "linux", "accounting", "creative", "objective-c", "programming", "data mining", "data miner", "training", "api", "rspec", "testing", "test", "contributor", "contribute", "contribution", "sales", "java", "c", "interface", "iphone app", "node.js", "node", "sysadmin", "administration", "administrator", "font", "fonts", "illustrator", "usability", "system", "deployment", "scaling", "server", "css", "design", "reliability", "reliable", "open source", "manager", "blog", "writing", "organization", "organizing", "coordination", "coordinating", "android"],
+  "githubbers": [
+    {
+      "name":    "Jared Pace",
+      "date":    "2012-10-15 19:24:46 -0400",
+      "tags":    ["he","his","tool","ruby"],
+      "content": "Today marks Jared Pace's first day as a GitHubber.  He hails from Durham, North Carolina, and we're stoked that he's bringing his Ruby skills to our Internal Tools team.    Jared also happens to be quite the sushi chef, enjoys bouncy castles, and knows how to BBQ some truly tasty North Carolina pulled pork.  Keep track of Jared on GitHub and Twitter!",
+      "image":   "https://secure.gravatar.com/avatar/d6ea967d39422e26f5cd3801b9482899?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    }
+    ,
+    {
+      "name":    "Liz Clinkenbeard",
+      "date":    "2012-10-15 18:22:20 -0400",
+      "tags":    ["press","media"],
+      "content": "As of this weekend, GitHub is now hosting over 4 million repositories for over 2.3 million people. Their stories are our stories. From shaping the future of government to ducking dodgeballs for charity, telling the GitHub story is as deep as it is wide.  I am very happy to announce that today is Liz Clinkenbeard's first day as a GitHubber. Liz will be helping us tell the GitHub story while managing our press and media relationships.    You can follow Liz on GitHub and on Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/20fb0343d3e56839a09a74b8e95592800f69058d/687474703a2f2f662e636c2e6c792f6974656d732f30313049326d325231433065316c304b3050326e2f494d475f303436372e6a7067"
+    }
+    ,
+    {
+      "name":    "James Fryman",
+      "date":    "2012-10-15 17:51:54 -0400",
+      "tags":    ["he","him","tool","ops","infrastructure","contribute"],
+      "content": "Today we welcome James Fryman to GitHub. He'll be working with our Ops team to level up our Puppet infrastructure and contribute additional awesome to all of our tools.    Follow him on Twitter and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/40bb639351cf4b1dc0a916627feb04ca11ac870d/687474703a2f2f662e636c2e6c792f6974656d732f335731433038306e324c3133315a3262325130702f363039373932353733335f343133333130656135325f7a2e6a7067"
+    }
+    ,
+    {
+      "name":    "James Kang",
+      "date":    "2012-10-15 15:15:13 -0400",
+      "tags":    ["he","him","his","designer","web","design"],
+      "content": "Today marks James Kang's first day as a GitHubber. James is an amazing designer with a big, big heart. James has worked on everything from print and web to motion graphics. We're excited to have him on board to make all-things-GitHub sparkle and to work hand-in-hand with the rest of our designers to grow the GitHub brand.    We asked James to design the Octocat he thought the Octodex was missing most and he completely dazzled us with his Stormtroopocat.    You can follow James on GitHub, Twitter, and on Instagram as jeejkang.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/336506c0462db088c316366c9506891e3c00b768/687474703a2f2f636c2e6c792f4b42625a2f6a616d65735f6b616e672e6a706567"
+    }
+    ,
+    {
+      "name":    "Peter Williams",
+      "date":    "2012-10-02 17:13:44 -0400",
+      "tags":    ["he","his","api"],
+      "content": "Yesterday was Peter Williams' first day as a GitHubber. He will be joining the API team, making it even more better (both the API and the team!). He also increases the number of Colorado GitHubbers from his home in Broomfield, CO.  ",
+      "image":   "https://github-images.s3.amazonaws.com/skitch/20121002_134807-20121002-150538.png"
+    }
+    ,
+    {
+      "name":    "Amber Agard",
+      "date":    "2012-09-26 20:08:17 -0400",
+      "tags":    ["her","shop"],
+      "content": "It's with great pleasure we announce Amber's first day at GitHub. Amber will be helping Beth out with the GitHub Shop.   Amber moved here from Tennessee about 9 weeks ago. In her free time, Amber likes to play World of Warcraft, take pictures, travel, and watch Clemson football.    Follow her on GitHub.",
+      "image":   "https://twimg0-a.akamaihd.net/profile_images/2422435240/4wnsog7ten6f15jipyc0.jpeg"
+    }
+    ,
+    {
+      "name":    "Matt Yoho",
+      "date":    "2012-09-24 23:28:19 -0400",
+      "tags":    ["he","him","his","tool","supportocat"],
+      "content": "Incrementing our Matt count +1, we welcome Matt Yoho to the GitHub team. He will be spending his time fighting alongside a covert team of GitHub superheroes building internal tools to make our Supportocats lives warmer and fuzzier.    Follow him on Twitter and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/bb69c0222266fae71500145e91924e67a522e6ae/687474703a2f2f732e67726176617461722e636f6d2f6176617461722f61323061306232356661646361396632303031323038393566346563376266663f733d333030"
+    }
+    ,
+    {
+      "name":    "Matt Burke",
+      "date":    "2012-09-24 17:44:36 -0400",
+      "tags":    ["him","git","scm","scms"],
+      "content": "Today we welcome Matt Burke to the GitHub team.  Matt built the git-TFS gateway and will be working from the farmland near Indianapolis to take GitHub integration with other SCMs to the next level.    Follow him on Twitter and GitHub. Welcome, Matt!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/352f3e89269c0d18c481027d04863d98850de114/687474703a2f2f662e636c2e6c792f6974656d732f313532393277303830513058304e3047323032432f30363537385f323031312d30342d31305f31302d33302d32305f7072696e7442572e6a7067"
+    }
+    ,
+    {
+      "name":    "Josh Vera",
+      "date":    "2012-09-17 14:51:10 -0400",
+      "tags":    ["he","him","his","cocoa","ios","ruby"],
+      "content": "Today Josh Vera adds to the East Coast contingent of GitHub. He'll be bringing his Cocoa, iOS, Ruby, and a million other expertises to things all around GitHub. We're extremely excited, and hope you love him as much as we do.    Follow him on Twitter and GitHub. Welcome, Josh!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/f95d8b7082cb5209a6ffaa861615e21e7c695ec4/687474703a2f2f636c2e6c792f696d6167652f314c314731373338304f33352f333237393235385f3330302e6a7067"
+    }
+    ,
+    {
+      "name":    "Alan Rogers",
+      "date":    "2012-09-17 14:29:35 -0400",
+      "tags":    ["he","him","his","software"],
+      "content": "Today marks Alan Rogers’ first day as our new addition to the Mac team. In the past he has worked for the likes of Realmac Software, Shotgun and Cospective (formerly Rising Sun) as well as starting his own venture Blind Mice Studios.    He is also the first GitHubber to be given an Academy Award (and a peck on the cheek from Marisa Tomei).     You can find him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/a9660225498a414658a4750608a2f3b0f50537a6/687474703a2f2f323031312e7377697065636f6e666572656e63652e636f6d2e61752f6d656469612f42416862426c73484f675a6d496a59794d4445784c7a41334c7a41304c7a41324c7a51334c7a41344c7a677a4e5339686247467559334e6c587a457a4d4441784d4449314e4456664d544575616e426e"
+    }
+    ,
+    {
+      "name":    "Mark Imbriaco",
+      "date":    "2012-09-17 12:52:12 -0400",
+      "tags":    ["him","his","operation"],
+      "content": "I couldn't be more excited to announce that Mark Imbriaco is the newest addition to our operations team. Mark is nothing short of a legend in the field, and we're ecstatic to finally have his experience on our side.     Follow him on GitHub and Twitter. Welcome, Mark!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/dfc8b3b113d3b009f707423cfe02b992d3fe7cc5/687474703a2f2f61302e7477696d672e636f6d2f70726f66696c655f696d616765732f313039323533383336352f6176617461722e6a7067"
+    }
+    ,
+    {
+      "name":    "Nicolás Sanguinetti",
+      "date":    "2012-09-05 14:01:46 -0400",
+      "tags":    ["him","his","business","rails"],
+      "content": "Good news, everyone: There's a new GitHubber in Montevideo, Uruguay! Nicolás (better known as foca) is bringing his exceptional Rails skills to the github.com team, and we're all already inventing \"business\" reasons to visit him.    Follow foca on GitHub or Twitter, or read his website thing.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ba812ff09221987d4fa4152758e8027aee10648b/687474703a2f2f636c2e6c792f696d6167652f3061315630633078325931652f636f6e74656e74"
+    }
+    ,
+    {
+      "name":    "Saloni Dudziak",
+      "date":    "2012-09-04 18:21:52 -0400",
+      "tags":    ["she","her","financial","cooking"],
+      "content": "I am privileged to announce that today is Saloni's first day as a GitHubber! After one year of finance consulting for GitHub, we are ecstatic to have her be part of the Hubber Family. Saloni (Sal) has been, and will continue to be, responsible for GitHub's financial health as we further our goal of global domination. Even though she brushes shoulders with celebrities like Anthony Bourdain, she promises to do no cooking around our books here!    Follow her on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/08b3e705585fda7019ee9372e4dcbcea33e84e31/687474703a2f2f662e636c2e6c792f6974656d732f305733653279324b3362337332473271324133742f53637265656e25323053686f74253230323031322d30392d30342532306174253230322e32362e3037253230504d2e706e67"
+    }
+    ,
+    {
+      "name":    "Ben Lavender",
+      "date":    "2012-08-27 18:38:46 -0400",
+      "tags":    ["his","database","ruby","administration","javascript","administration","system"],
+      "content": "We're very happy to announce our latest New Orleans acquisition, Ben Lavender, pictured below wearing the traditional costume of his people. Ben promises to use his Ruby, JavaScript, system administration, and scary complicated graph database skills for good, not for evil. Mostly.    Follow Ben on GitHub and Twitter or read his terrifying personal website.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/bef815ef92efaec7a3f20788340a356296a6b7dc/687474703a2f2f636c2e6c792f696d6167652f3130313632433136307532772f636f6e74656e74"
+    }
+    ,
+    {
+      "name":    "Lincoln Stoll",
+      "date":    "2012-08-27 15:51:11 -0400",
+      "tags":    ["he","him","enterprise"],
+      "content": "Today we're excited to announce that Lincoln Stoll has joined the GitHub team. He's going to help us make GitHub Enterprise faster, better, stronger.    Follow him on GitHub and Twitter. Welcome Lincoln!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/859292fb3b177112fec011a6057580468d8f98f0/687474703a2f2f636c2e6c792f696d6167652f326e336e32763432343431682f4453433030313035253230636f70792e6a7067"
+    }
+    ,
+    {
+      "name":    "Steve Ward",
+      "date":    "2012-08-20 20:05:43 -0400",
+      "tags":    ["support","supportocat"],
+      "content": "Last week, Steve joined us as a Supportocat. It was a grueling boot camp of a week, with roller coasters, innovation and lightning talks.   On Saturday, Steve singlehandedly vaulted GitHub past the 2 million user mark.   Today, Steve's diving in to join the support team ... and ensure every Githubber has a set of quality headphones any audiophile would approve of.    Steve says hi, and then gets back to the supportoworld.  Follow Steve on the twitters and the GitHubs.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ef519f0da227e307f3d6593c539031ca7b93ca5c/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f63696e655f312f31343134353237372e676966"
+    }
+    ,
+    {
+      "name":    "John Britton",
+      "date":    "2012-08-20 19:55:21 -0400",
+      "tags":    ["he","him","his","community","training"],
+      "content": "We're excited to introduce our Education Liaison, John Britton. He'll be joining forces with our Community and Training teams to bring GitHub to a campus near you. He's looking forward to adding more places to his ever-growing list of countries he's been to, with nearly 30 already under his belt!   John will be working to make all things academic more awesome, from our student discounts, to campus events, and more. Email him at education@github.com, if you have ideas or suggestions to bring some Octolove to your school.  Follow him on GitHub and Twitter.  ",
+      "image":   "https://a248.e.akamai.net/camo.github.com/7698363799488efe0f51ce17d75e989e6383c195/687474703a2f2f662e636c2e6c792f6974656d732f31333135325733783264314431303165305830352f6a6f686e6462726974746f6e2d6176617461722e706e67"
+    }
+    ,
+    {
+      "name":    "David Barr",
+      "date":    "2012-08-20 18:21:14 -0400",
+      "tags":    ["he","him","his","scm","scms","linux","accounting"],
+      "content": "Today we're excited to announce that David Barr has joined the GitHub team.   He'll be working from Sydney, Australia to make integration with other SCMs more awesome.  David once helped port a wireless broadband driver to Linux to save $15 on an ethernet hub, and we applaud his sense of fiscal responsibility and may ask him to help out in Accounting.    Follow him on GitHub and Twitter. Welcome David!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/dd1add055b332d8aa752fae4a89956633e3b95bd/687474703a2f2f7777772e67726176617461722e636f6d2f6176617461722f63373562356666656438653032356536363562316631613161346233303937382e706e673f733d32353626643d68747470733a2f2f613234382e652e616b616d61692e6e65742f6173736574732e6769746875622e636f6d253246696d6167657325324667726176617461727325324667726176617461722d3134302e706e67"
+    }
+    ,
+    {
+      "name":    "Shay Frendt",
+      "date":    "2012-08-07 20:56:29 -0400",
+      "tags":    ["he","his","ruby","enterprise"],
+      "content": "Today we're excited to announce that Shay Frendt has joined the GitHub Enterprise team. Hailing from Raleigh, North Carolina, he's bringing his ruby and sailing shipping skills to help deliver great products to our customers.    Keep track of what he's up to on GitHub and Twitter. Welcome Shay!",
+      "image":   "https://secure.gravatar.com/avatar/75ce4d061e0ce19b8822ba0989c05153?s=400&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png"
+    }
+    ,
+    {
+      "name":    "Curt Micol",
+      "date":    "2012-08-06 18:31:08 -0400",
+      "tags":    ["he","him","ops","system"],
+      "content": "Today we're excited to announce that Curt Micol has joined our Ops team.      We've known Curt for a while and we're pumped to have another solid ops person looking after our systems.  We also love giving him a hard time for how much he resembles Seth Rogen.  You can follow him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/1ae86d932cecf49190c1897d3a481cd6f88cab2f/687474703a2f2f61746d6f732d7333697463682e73332e616d617a6f6e6177732e636f6d2f736974652d62792d736964652d7374616368652e6a706567"
+    }
+    ,
+    {
+      "name":    "Tim Berglund",
+      "date":    "2012-08-01 18:00:43 -0400",
+      "tags":    ["he","him","his","git","training","system","blog"],
+      "content": "Today, Tim Berglund joins Matthew McCullough and Jared Koumentis on the GitHub Training team. Tim is an accomplished presenter and instructor and has spoken on the topics of both Git and GitHub, as well as having co-authored several O'Reilly books and videos.    Tim will be helping make GitHub Training more awesome through new classes, additional date options for training customers, new educational products, and innovative re-thinking of how the world's educational and authoring systems function and how they could leverage GitHub.    Fun Tim facts that missed the trading card printing run:  Tim has relaunched his personal blog on his GitHub starting day using GitHub. Inception. Tim is a budding video producer, having launched Oh, The Methods You'll Compose last year and soon to be launching his next year-in-the-making video. Tim is a homebrewer that I can personally certify as capable of producing great beer. Tim is a native of Littleton, Colorado, USA. Though he is just one small municipality away from Matthew McCullough, they primarily meet in airports and foreign countries during training events. If you can't get enough of Tim's epic chops from this post, you can follow him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/3fef41c8a0c5e71d2abf2a9614da703b46351705/687474703a2f2f636c2e6c792f696d6167652f327430333139336e314933332f636f6e74656e74"
+    }
+    ,
+    {
+      "name":    "Jenifer Duke",
+      "date":    "2012-07-23 20:35:53 -0400",
+      "tags":    ["she","her","blog"],
+      "content": "I am very excited to announce that today our Executive Assistant, Jenifer Duke, celebrates her first day as a GitHubber! Jenifer started her admin career 13 years ago as a secretary in the Georgia House of Representatives and has honed her skills over the years at Prudential Douglas Elliman, Lehman Brothers, Booyah Inc, and JP Morgan.   A few interesting facts about Jen:  She likes getting lost in far away places...    She has an awesome Corgi named Ender...     and when time allows, she cooks then blogs about it. Follow her escapades on Instagram, username: thedukeofsf and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/3b2f1fff0384136e34ff677075bf31c331ee920d/687474703a2f2f662e636c2e6c792f6974656d732f337732413337336a323833523250304b314130482f3239373338305f31303135303832353037333839303235345f313732383433333036355f6e2e6a7067"
+    }
+    ,
+    {
+      "name":    "Patrick Dunnam",
+      "date":    "2012-07-23 20:08:44 -0400",
+      "tags":    ["he","him","his","designer","creative","system"],
+      "content": "We are glad to have Patrick on board today! Patrick started his career as a sound designer mousing tracks for EA Games, Girls Gone Wild, and epic SiFi Channel MOWs. After realizing he sucked at it, he took over the A/V dept at Yelp building out and deploying their video-conferencing systems. Yelp got savvy to his weekend activities as a creative collaborator with Seedwell and quickly asked him to create the video department. Patrick looks forward to creating and connecting GitHub with all things video.   You can follow him on Twitter and GitHub.  ",
+      "image":   "https://a248.e.akamai.net/camo.github.com/959d9798441a3e53aba5a706422f1bd3ec84d3c2/687474703a2f2f662e636c2e6c792f6974656d732f31423350327432323056316f304d3359304634302f53637265656e25323053686f74253230323031322d30372d32332532306174253230332e33352e3535253230504d2e706e67"
+    }
+    ,
+    {
+      "name":    "John Greet",
+      "date":    "2012-07-23 20:00:08 -0400",
+      "tags":    ["he","him","support","supportocat","linux","sysadmin"],
+      "content": "  We're bringing more panache to our support team.   Meet John Greet: man about town, Rubyist, johnny on the spot,  Linux nerd, supportocat. He'll be answering support emails, and generally making all your lives better.  John has a background in the dark underworld of sysadmins. He likes long walks in the fog and maintaining high-availability Linux clusters.  Check him out on GitHub.",
+      "image":   "https://github-images.s3.amazonaws.com/blog/2012/greet_and_swirl.gif"
+    }
+    ,
+    {
+      "name":    "Jerry Cheung",
+      "date":    "2012-07-23 19:50:36 -0400",
+      "tags":    ["he","his","business","ruby","enterprise"],
+      "content": "We are happy to announce that today is Jerry Cheung's first day as a GitHubber. He'll be working on taking over the business world with GitHub Enterprise. He's co-author of MacRuby in Action.  When he's not coding Ruby, chances are he's playing frisbee, obsessing about cars, or bumming his way around the world while stuffing his face with delicious things. He lives in Pasadena and can't help but look fabulous in tights.  You can follow Jerry on Twitter and on GitHub.  ",
+      "image":   "https://a248.e.akamai.net/camo.github.com/e4315f6aebab81fb20db17fe88d2fd82d249f95e/687474703a2f2f662e636c2e6c792f6974656d732f34323243334f336f3259337331663254324e33462f3435373439315f31303130303738333530313936373636325f313737303632303336375f6f2e6a706567"
+    }
+    ,
+    {
+      "name":    "Justin Spahr-Summers",
+      "date":    "2012-07-16 15:14:35 -0400",
+      "tags":    ["he","his","cocoa","objective-c","programming","c"],
+      "content": "Justin Spahr-Summers is a GitHubber! He will be working on making GitHub for Mac more awesome. In his spare time, Justin likes to extend Objective-C with itself, and bring functional programming to Cocoa with ObjectiveHaskell.    You can keep up with Justin on GitHub or on Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/549ca736c3ca808d916492d13367203816a43857/687474703a2f2f636c2e6c792f49366f632f70686f746f2e4a5047"
+    }
+    ,
+    {
+      "name":    "Jason Dixon",
+      "date":    "2012-07-09 17:00:26 -0400",
+      "tags":    ["he","tool"],
+      "content": "Today marks Jason Dixon's first day as a GitHubber. Jason is going to focusing on making amazing visualizations both for our internal tools and for the user-visible portions of GitHub.com. We're all very excited for what he's going to be churning out!  ",
+      "image":   "https://p.twimg.com/AxY_VISCQAAeEAR.jpg"
+    }
+    ,
+    {
+      "name":    "Derek Greentree",
+      "date":    "2012-07-09 16:50:44 -0400",
+      "tags":    ["he","him","his","data miner"],
+      "content": "Today is Derek Greentree's first day at GitHub. Hailing from Boulder, Colorado, Derek Map/Reduces' in his sleep and will be our first Data Miner. He's been tasked with making sense of terabytes of data all of you wonderful people are creating to provide a more rich experience while you're using the site. We can't wait to see what he'll come up with.    Find him on GitHub and Twitter. Welcome Derek!",
+      "image":   "https://github.s3.amazonaws.com/media/derek4.png"
+    }
+    ,
+    {
+      "name":    "Austin Spires",
+      "date":    "2012-07-09 16:47:09 -0400",
+      "tags":    ["he","business","enterprise"],
+      "content": "Today marks Austin Spires' first day as a GitHubber. When he's not cheering for the Oklahoma City Thunder or saving the world, he'll be assisting our GitHub Enterprise team in bringing GitHub to the business world.    You can keep up with Austin on GitHub or on Twitter.",
+      "image":   "https://github-images.s3.amazonaws.com/skitch/0_%283264%C3%972448%29-20120709-133612.jpg"
+    }
+    ,
+    {
+      "name":    "Zachary Kaplan",
+      "date":    "2012-07-09 16:33:35 -0400",
+      "tags":    ["his","tool"],
+      "content": "Today is Zachary Kaplan's first day as a GitHubber.  Zach is going to be helping us with our internal tools to make GitHub an even more fun and futuristic place to work. Possibly building an army of his iPhone controlled robotic arms to fetch us food and drink.    Check out Zach on GitHub.",
+      "image":   "https://github-images.s3.amazonaws.com/skitch/http__marakana.com_user_photo_093f0f5cfc5adbd07e2d72f85f701f2d.jpg-20120709-130743.jpg"
+    }
+    ,
+    {
+      "name":    "Luke Hefson",
+      "date":    "2012-07-09 16:26:11 -0400",
+      "tags":    ["he","him","his","support"],
+      "content": "Today is Luke Hefson's first day at GitHub. A musician, recent dad and fan of amphibious creatures, he will be adding to our team working on GitHub for Mac as a QA/Support double agent. His days will be spent examining bug reports and support requests whilst always working to improve the overall quality of the app.  He joins us from Realmac where he worked to ensure the likes of Analog and Clear shipped in tip-top condition.    Find him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/91f05be08daa00b24f785417047c9396e7b9c9b1/687474703a2f2f636c2e6c792f325a3239335331303430327a325a3041317432512f3330303434345f31303135303838363635343938353433305f3436363039353830375f6e2e6a7067"
+    }
+    ,
+    {
+      "name":    "Drew Miller",
+      "date":    "2012-07-09 15:17:21 -0400",
+      "tags":    ["him","his"],
+      "content": "Today is Drew Miller's first day as a GitHubber! Drew is going to be helping make Windows a more awesome place for GitHub users. Drew previously worked on the NuGet project at Microsoft along with fellow Hubbernaut Phil Haack. In his spare time, Drew enjoys pen-and-paper RPGs, comic books, and other cool nerdy activities.    Check him out on GitHub and Twitter",
+      "image":   "https://a248.e.akamai.net/camo.github.com/62f30fcd34fadee84bf055672c946cfcfc9c9da1/687474703a2f2f662e636c2e6c792f6974656d732f3364304f334b314831623437316d3055317233642f496d616765253230323031322e30372e303925323031313a35363a3035253230414d2e706e67"
+    }
+    ,
+    {
+      "name":    "Yossef Mendelssohn",
+      "date":    "2012-06-25 20:39:59 -0400",
+      "tags":    ["he","him","reliable"],
+      "content": "Today our buddy Yossef joins us with the rest of the OGC crew.  He'll be helping us make github.com more awesome and reliable.    Yossef thinks twitter is silly so he doesn't tweet much.  You can find him on github and maybe dancing in your town.",
+      "image":   "https://github-images.s3.amazonaws.com/skitch/yossef-20120625-162550.jpg"
+    }
+    ,
+    {
+      "name":    "Kevin Barnes",
+      "date":    "2012-06-25 18:53:10 -0400",
+      "tags":    ["he","ruby"],
+      "content": "Today is Kevin Barnes' first day at GitHub.   He brings years of experience rescuing Ruby projects at OG Consulting to the GitHub app.  He's a minimalist.    You can follow Kevin on GitHub and Twitter.",
+      "image":   "https://github-images.s3.amazonaws.com/blog/2012/kevinbarnes.jpg"
+    }
+    ,
+    {
+      "name":    "Rick Bradley",
+      "date":    "2012-06-25 18:52:29 -0400",
+      "tags":    ["his","ruby"],
+      "content": "Today is Rick Bradley's first day as a GitHubber. Peaceful protester and crunk lover, Rick will be bringing his wealth of knowledge around Ruby and team management to the github.com team. Here's Rick with the best crunk in town:    Follow Rick on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/b879f7c38360aead36dffd20de53b1e8a4e3b8f7/687474703a2f2f61342e65632d696d616765732e6d79737061636563646e2e636f6d2f696d6167657330322f3135312f31326166633133343230633034373136613735633736306362653133383538362f6c2e6a7067"
+    }
+    ,
+    {
+      "name":    "Jared Koumentis",
+      "date":    "2012-06-25 18:05:25 -0400",
+      "tags":    ["he","his","git","support","supportocat","training"],
+      "content": "Hailing all the way from the land of Blue Crabs, otherwise known as Baltimore, Jared Koumentis joins us as a Supportocat Double Agent! He'll be spending his time answering support emails as fast as you can send them, as well as working with our Training staff to help teach Git to the world.     Follow Jared on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/90e37d8be0eb4c197f3f123d0ff862b0e57cb5e8/68747470733a2f2f696d672e736b697463682e636f6d2f32303132303632352d6e75687370627072646838796667326b616533703539726674772e6a7067"
+    }
+    ,
+    {
+      "name":    "Emma Bryant",
+      "date":    "2012-06-19 18:20:08 -0400",
+      "tags":    ["she","her","operation","shop"],
+      "content": "Emma is our new GitHubba from down unda'. She will be the shining face of GitHub HQ and has been entrusted with its daily operation and maintenance. Emma loves peas and Tuesdays, and though its hard to believe, has previously been employed by even classier establishments than GitHub. Namely, the Queen's very own cheese shop in London.     Follow her on Twitter and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/1e44ff1daa8db08b60f282efe53b7d04405452ea/687474703a2f2f662e636c2e6c792f6974656d732f327232713347326c3330324d307833473137324c2f53637265656e25323053686f74253230323031322d30362d31392532306174253230322e35372e3337253230504d2e706e67"
+    }
+    ,
+    {
+      "name":    "Julia West",
+      "date":    "2012-06-19 15:18:42 -0400",
+      "tags":    ["she","her","code","developer","rails","ruby"],
+      "content": "Yesterday was Julia West's first day as a GitHubber!    Julia is joining us from New York as a Ruby developer. She's been working with Rails since version 1.0, and she'll be helping us make make GitHub as awesome as possible. We're super pumped to have her on the team!  Check out her code, her personal site, and her tweets!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/7d37599ec8a467dcd669b58ca0f8701878c9ce8e/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031322f6a756c69615f776573742e6a7067"
+    }
+    ,
+    {
+      "name":    "Scott Goldman",
+      "date":    "2012-06-18 14:55:12 -0400",
+      "tags":    ["him","infrastructure"],
+      "content": "I'm excited that today is Scott Goldman's first day as a GitHubber! Scott (G) comes to us from VMWare and will provide us with much needed extra Scott-ness working on all sorts of things in the GitHub infrastructure.    Follow him on GitHub and Twitter!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/c1a6e73f79fee6afd9d0dfcedd8b66331865b652/687474703a2f2f702e7477696d672e636f6d2f416c4261705033434d41453039526d2e6a70673a6c61726765"
+    }
+    ,
+    {
+      "name":    "Ted Nyman",
+      "date":    "2012-06-18 14:40:56 -0400",
+      "tags":    ["he","him","his","code","infrastructure","developer"],
+      "content": "Today is Ted Nyman's first day as a GitHubber. Ted is joining as a developer working on infrastructure and performance projects. He'll be making GitHub.com better and faster for everyone.   In his spare time, he plays guitar and writes poetry. As you might imagine, we're pretty excited to get him to our next campfire.    You can check out Ted's code on GitHub and follow him on Twitter where he sometimes discusses his future plans—like what his first Executive Orders will be once he's the President.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/2dacf7bdd9d16de5b66667a88f6c1f8ab547da32/687474703a2f2f61302e7477696d672e636f6d2f70726f66696c655f696d616765732f313838373832313930372f6675636b5f796f752e6a7067"
+    }
+    ,
+    {
+      "name":    "Keavy McMinn",
+      "date":    "2012-06-18 14:20:34 -0400",
+      "tags":    ["she","her","developer","ruby"],
+      "content": "Today is Keavy McMinn's first day as a GitHubber! Keavy will be joining the team as a Ruby Developer to help build all of the things. In her spare time Keavy trains and competes in Ironman Distance Triathlons. She's a pretty big deal and we couldn't be more excited to have her join the GitHub Family.     You can follow Keavy on Twitter and, of course, on GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/0fd5cc0a8b8c8c7be55d7608ac07edee55f8f9b6/687474703a2f2f7777772e6b656176792e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323031302f31312f6272696e675f69745f62775f3430302e6a706567"
+    }
+    ,
+    {
+      "name":    "Chad Humphries",
+      "date":    "2012-06-12 14:44:40 -0400",
+      "tags":    ["he","him","rspec","test","contributor","writing"],
+      "content": "Yesterday marked Chad's first day as a GitHubber.   Since the dawn of time Chad has tirelessly worked to build and improve test frameworks.   He's a  contributor to RSpec Core, Konacha, and author of Micronaut.    Chad joins us from Ohio and will be working to make .com kick ass (and probably writing a test framework or two while he's at it).        Follow him on Twitter and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/075d0943c8c5e07e9bb9f535436a544e8fe1fea3/687474703a2f2f696d672e736b697463682e636f6d2f32303132303631322d6a63663664706162313967696b6d673966386b34356b336d62742e706e67"
+    }
+    ,
+    {
+      "name":    "Slava Shirokov",
+      "date":    "2012-06-11 21:09:54 -0400",
+      "tags":    ["him","his","developer","contributor"],
+      "content": "I am happy to announce that today is Slava's first day as a GitHub developer. Slava has been a big contributor to both lisp-zmq and mc2l. His first order of duty is to ensure the backends of the GitHubs are running smoothly.     Follow him on GitHub, Twitter and Tumblr.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/437230c78a06cd0ee9c645435195e8b0634dae77/687474703a2f2f696d672e736b697463682e636f6d2f32303132303631322d72727077746a77616d66723167696b336268746778686e3331352e706e67"
+    }
+    ,
+    {
+      "name":    "Paul Sadauskas",
+      "date":    "2012-06-04 17:23:54 -0400",
+      "tags":    ["his","api","blog"],
+      "content": "Paul Sadauskas is a GitHubber!    Paul will be working on API Awesomeness and shipping all of the things from his hometown, Boulder, Colorado.   You can follow Paul on GitHub, Twitter, and his blog Rando's Random Ramblings.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/63aa90ae9d4889e2b78f1bd0d40d5c0d60d5d582/687474703a2f2f662e636c2e6c792f6974656d732f32343238324430663268337831613353303332632f696d675f313039342e6a7067"
+    }
+    ,
+    {
+      "name":    "Coby Chapple",
+      "date":    "2012-06-04 16:58:46 -0400",
+      "tags":    ["he","him","his","design"],
+      "content": "Today the design team is joined by Coby Chapple.      Coby is all the way from the Gold Coast, Australia. He will be applying his keen design eye to github.com in making it even more awesome. We're excited to have him aboard.  Follow Coby on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/3f4e4889915c4a64b686ddffa9f83f29b124ec72/687474703a2f2f662e636c2e6c792f6974656d732f32653169336232593132333930683343304532532f636f62792d73662d62672e6a7067"
+    }
+    ,
+    {
+      "name":    "Mike Skalnik",
+      "date":    "2012-06-04 14:25:21 -0400",
+      "tags":    ["he","his","ruby","enterprise","community"],
+      "content": "The GitHub Enterprise team is delighted to welcome Mike Skalnik aboard.     Mike hails from Atlanta and is a graduate of the Georgia Institute of Technology, where he focused on People and Information Internetworking. He's heavily involved in the Ruby community there - talking, presenting and helping organize the Atlanta Ruby Users Group.  His Ruby chops will help to delight our Enterprise customers; his barista skills will hopefully delight his new colleagues!  You can follow Mike on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/0b6d8a99585cd4da49c7bc3a7a870fa5127507fb/687474703a2f2f692e696d6775722e636f6d2f50353631722e6a7067"
+    }
+    ,
+    {
+      "name":    "Drew Woods",
+      "date":    "2012-06-04 13:48:17 -0400",
+      "tags":    ["he","him","enterprise","support"],
+      "content": "Today I'm happy to announce that Drew Woods is joining us here at GitHub! He'll be working on the Enterprise Support team so we can continue providing Awesome Support™.    You can follow him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/803be57f4b448886b537d1f76d00d61cbe88e039/687474703a2f2f643133706978396b61616b3677742e636c6f756466726f6e742e6e65742f6261636b67726f756e642f64726577775f313239303134303739355f34352e6a7067"
+    }
+    ,
+    {
+      "name":    "Will Farrington",
+      "date":    "2012-05-29 13:20:02 -0400",
+      "tags":    ["he","his","ops","rails"],
+      "content": "Today marks Will Farrington's first day at GitHub. He'll be joining the Ops team to help keep GitHub fast and stable.  Will honed his skills at Highgroove and Rails Machine, where he helped scale some massive sites you've probably used. We couldn't be happier to have his experience on our side.    You can keep track of what he's up to on GitHub and Twitter. Welcome, Will!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/03c19ab04b3fd505a3dfb5b7f7167ab15ada3d60/687474703a2f2f61322e7477696d672e636f6d2f70726f66696c655f696d616765732f313631353830393634382f696d6167652e6a7067"
+    }
+    ,
+    {
+      "name":    "David Graham",
+      "date":    "2012-05-21 14:56:42 -0400",
+      "tags":    ["he","him","his","server"],
+      "content": "I'm excited to announce that today marks David Graham's first day as a GitHubber. David is the author of the Vines chat server. He will be helping us make GitHub dot com more awesome from his homestead in Denver, CO.    Follow him on Twitter and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/046e5f9dbe34aa369b2b1ab8dc6ec0baebecdda5/687474703a2f2f662e636c2e6c792f6974656d732f3044325931543362335930733370324c314c30782f53637265656e25323053686f74253230323031322d30352d3231253230617425323031312e33372e3032253230414d2e706e67"
+    }
+    ,
+    {
+      "name":    "Wynn Netherland",
+      "date":    "2012-05-21 14:26:52 -0400",
+      "tags":    ["him","his","ruby","api","blog"],
+      "content": "I'm thrilled to announce that today is Wynn Netherland's first day as a GitHubber.  You may know him as one of the hosts of The Changelog, or the author of Octokit (A GitHub API client for Ruby).  We're bringing on his expertise to ensure our API is a great experience for everyone.     You can follow him on GitHub and Twitter, or check out his blog.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/cc6479a7e5075e2007e9c7844044b225a487335f/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f74756d626c725f6c72346d3977666a376c31717a383064696f315f3530302e6a7067"
+    }
+    ,
+    {
+      "name":    "Billy Roh",
+      "date":    "2012-05-15 18:32:52 -0400",
+      "tags":    ["he","him","designer"],
+      "content": "Yesterday marked Billy Roh's first day as a GitHubber. Billy Roh will be joining us for the summer as a designer. He is from Vancouver, Canada, and enjoys poutine, big cities, and the internet.    Follow him on Twitter and Dribbble.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/8c3aed25f64693a94739e9dce05ff513b813917c/687474703a2f2f662e636c2e6c792f6974656d732f3041336f336331393339303833353275314733552f53637265656e25323053686f74253230323031322d30352d31342532306174253230312e35322e3234253230504d2e706e67"
+    }
+    ,
+    {
+      "name":    "Ryan Waldron",
+      "date":    "2012-05-07 19:51:54 -0400",
+      "tags":    ["him","father"],
+      "content": "No longer lost in the lonely mountain, today is Ryan's first day as a GitHubber. Ryan is a proud father of three, an avid reader, a terrible guitar player, a football fanatic, political junkie, and incurable entrepreneur.    You can follow him on GitHub and Twitter",
+      "image":   "https://a248.e.akamai.net/camo.github.com/9e2683e54d9545feb440c63204c7585d0c56a7c3/687474703a2f2f662e636c2e6c792f6974656d732f3364337132323261316c334f314e304a3074327a2f53637265656e25323053686f74253230323031322d30352d30372532306174253230342e30352e3232253230504d2e706e67"
+    }
+    ,
+    {
+      "name":    "Tony Jaramillo",
+      "date":    "2012-05-07 19:42:52 -0400",
+      "tags":    ["him","his","blog"],
+      "content": "After contracting with GitHub for several months, today is Tony's first day as a GitHubber. Tony will continue to make all of the Octocat animations awesome.    Tony is a dog enthusiast, beer brewer, whiskey drinker, and animator by trade.    You can follow him on his personal blog or website.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/5cc1b6d339c37d579fc0a8858311d76dba8fba18/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f636f6c6c61626f636174732e676966"
+    }
+    ,
+    {
+      "name":    "Jeremy Mcanally",
+      "date":    "2012-05-07 17:25:08 -0400",
+      "tags":    ["he","him","his","ruby","community","contribution"],
+      "content": "Today marks Jeremy's first day as a GitHubber.  We're really excited to have him on board because most of us have followed his work closely for the past few years.  We aren't the only people who have kept track of his contributions to the Ruby community over time.    He's a regular speaker, writer, and documenter of awesomeness.  You can follow him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/cb802d4043ee7def8e0d85706e0c45319105be4e/687474703a2f2f662e636c2e6c792f6974656d732f33333050314332793035324f3346325a304f30652f6d63616e616c6c792e706e67"
+    }
+    ,
+    {
+      "name":    "Shawn Davenport",
+      "date":    "2012-04-30 18:11:34 -0400",
+      "tags":    ["he","him","his","infrastructure","linux","system","blog"],
+      "content": "Today Shawn Davenport starts as GitHub's first full-time Security Engineer. Shawn has over a decade of experience in systems and network security doing everything from building crypto and Public Key Infrastructure systems for NASA to teaching FBI field agents how to investigate crimes involving Unix and Linux systems. He'll be heading up a range of security related projects at GitHub.    Shawn has a strong passion for running ridiculously long distances and writes about it on his blog.  Check him out on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/41e6672a04a7eaf70d8390aef71ecb7eb818b03b/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323531342f333934333633353039305f623164383334343563625f622e6a7067"
+    }
+    ,
+    {
+      "name":    "Tim Pease",
+      "date":    "2012-04-30 17:05:14 -0400",
+      "tags":    ["him","his","blog"],
+      "content": "Tim Pease is many things: long time Rubyist, nature lover, Elastic Search expert, avid cyclist, and now a GitHubber! As our second Boulder based Hubbernaut, Tim will most likely be found in the shade of the Flatirons enjoying a local microbrew and hacking on improved search experiences for all GitHub properties. Welcome to the team, Tim!    Check out his blog and follow him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/b6ee9650842b9fa0b965cede3d16f3d80826c61b/68747470733a2f2f696d672e736b697463682e636f6d2f32303132303433302d666e39346d693873736b69776868647973626970666b686671382e6a7067"
+    }
+    ,
+    {
+      "name":    "Rob Sanheim",
+      "date":    "2012-04-23 20:10:15 -0400",
+      "tags":    ["he","him","his"],
+      "content": "After converting his awesome previous company over to GitHub, Rob Sanheim joins the ranks as Hubbernaut. As an early GitHub user, Rob has a long list of awesome new features he'll be shipping to github.com... (once his build starts passing).  Rob will also bring his love for pomodoro workouts, getting lost in the woods, and finding the best locally roasted coffee.    Follow him on Twitter or GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/626dd444dcf68164aa960ab170c02e72b93e894e/687474703a2f2f692e696d6775722e636f6d2f796d776d702e6a7067"
+    }
+    ,
+    {
+      "name":    "Ben Straub",
+      "date":    "2012-04-23 18:35:57 -0400",
+      "tags":    ["he","him","his","developer","software","blog"],
+      "content": "Today Ben Straub joins us as a GitHubber. He will use his software development skills to help us accelerate libgit2 development. He joins us from Portland, continuing our trend of having no two libgit2 developers based in the same place.     You can check him out on GitHub, follow him on Twitter, or read his blog. Welcome, Ben!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/60e59665ca48ce041d374c112755d2cf62bef475/687474703a2f2f692e696d6775722e636f6d2f32314149782e6a7067"
+    }
+    ,
+    {
+      "name":    "David Calavera",
+      "date":    "2012-04-23 18:24:28 -0400",
+      "tags":    ["he","his","enterprise"],
+      "content": "Today is David Calavera's first day as a GitHubber.  David joins the  GitHub Enterprise team where he'll be putting his plethora of skills (including juggling on a slackline) to use making Enterprise even more awesome.     You can follow David on GitHub and Twitter.  Welcome to the team David!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/2a894650a96ac73d594925788bc57f60f5645b3e/687474703a2f2f692e696d6775722e636f6d2f47556546752e6a7067"
+    }
+    ,
+    {
+      "name":    "Jason Salaz",
+      "date":    "2012-04-09 18:04:47 -0400",
+      "tags":    ["he","him","enterprise","support"],
+      "content": "Today Jason Salaz joins us at GitHub. He'll be joining our GitHub Enterprise support team so we can provide More Awesome Support™.    You can follow him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/8fc7cfb3469a60b2290fed94b31ba882ffc83302/68747470733a2f2f696d672e736b697463682e636f6d2f32303132303430392d6362397871353971697032773373677333626e707033396634752e6a7067"
+    }
+    ,
+    {
+      "name":    "Sean Bryant",
+      "date":    "2012-04-09 17:46:33 -0400",
+      "tags":    ["he","him","his","enterprise","contribution"],
+      "content": "Today Sean Bryant joins us at GitHub.  He'll be bringing his administrative and automation expertise to our Enterprise team.  You might recognize him from his contributions to the Rubinius project.       If you follow him on GitHub you'll see he's also into Emacs and Common Lisp.  He's also on Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/b1c5ab68ba35b067d2dd32dfc859d821f20a7c0d/687474703a2f2f662e636c2e6c792f6974656d732f316132723353327232393050314c31583037316b2f7365616e2e6a7067"
+    }
+    ,
+    {
+      "name":    "Danish Khan",
+      "date":    "2012-04-09 17:34:24 -0400",
+      "tags":    ["he","him","enterprise","sales"],
+      "content": "Today is Danish Khan's first day as a GitHubber. He is going to be working with the rest of our Enterprise sales team to bring GitHub to those who don't yet have it at work. A regular at our previous GitHub drinkups around the city, he'll be there this Thursday as well so stop by and say hi!    You can follow him on GitHub and Twitter.  Welcome to the team Danish!",
+      "image":   "https://secure.gravatar.com/avatar/7f81fd5c7792dabca22c433abbfbf0cb?s=512&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png"
+    }
+    ,
+    {
+      "name":    "Kyros Starr",
+      "date":    "2012-04-02 18:49:26 -0400",
+      "tags":    ["he","him","support"],
+      "content": "Today is Kyros Starr's first day as a GitHubber. He will be helping make GitHub more awesome for everyone by joining our wonderful support team. If you contact GitHub this week say hi.       You can follow him on GitHub and Twitter.  Welcome to the team, Kyros!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/17a5ca92d2e6d8acb7d6214c8dbd041256aa9c12/687474703a2f2f636c2e6c792f465633452f5363726170626f6f6b25323070686f746f253230312e706e67"
+    }
+    ,
+    {
+      "name":    "Jason Long",
+      "date":    "2012-03-26 14:25:26 -0400",
+      "tags":    ["him","his","git","scm","design"],
+      "content": "Today is Jason Long's first day as a GitHubber. We were completely taken aback by his classy work on a new logo for git-scm. So we are really excited to have him on the design team to make GitHub.com  classy.    Follow him at blackant on GitHub, @jasonlong on Twitter, and his portfolio.  Welcome Jason!",
+      "image":   "https://a248.e.akamai.net/assets.github.com/images/icons/emoji/tophat.png?v5"
+    }
+    ,
+    {
+      "name":    "John Barnette",
+      "date":    "2012-03-26 14:21:02 -0400",
+      "tags":    ["code","blog"],
+      "content": "Today is John \"jbarnette\" Barnette's first day as a GitHubber. Finally. John will help us take github.com to the next level.       John has some amazing code, some amazing blog posts, and a wonderful Twitter avatar. Also some tweets.  Welcome to the team, John!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/8e4afbe3fdf709dc2eb4aacff61fffd05a10b59b/687474703a2f2f636c2e6c792f464b54532f496d616765253230323031322e30332e323625323031313a31383a3538253230414d2e706e67"
+    }
+    ,
+    {
+      "name":    "Lee Huffman",
+      "date":    "2012-03-19 20:46:11 -0400",
+      "tags":    ["he","him","ops","infrastructure","rails","operation","contributor"],
+      "content": "Today marks Lee Huffman's first day as a GitHubber. He'll be joining our Ops team to help ensure your GitHub experience is smooth as we continue to scale our infrastructure.    He'll be using the skills he's honed as a core contributor to fog and as a Rails Operations Engineer at Blue Box to help automate even more Operations tasks. We've known Lee for a while, and couldn't be happier to have him onboard.  You can follow Lee on Twitter or GitHub.  Welcome to the team, Lee!",
+      "image":   "https://twimg0-a.akamaihd.net/profile_images/1299096756/me_web.jpg"
+    }
+    ,
+    {
+      "name":    "Julie Ann Horvath",
+      "date":    "2012-03-19 14:16:37 -0400",
+      "tags":    ["designer","enterprise"],
+      "content": "Today is Julie Ann Horvath's first day as a GitHubber. Julie is a talented designer and will work with the GitHub Enterprise team to help delight and dazzle our Enterprise customers.     You can follow Julie on Twitter, Dribble, and of course GitHub.  Welcome to the team, Julie!",
+      "image":   "https://a248.e.akamai.net/assets.github.com/images/icons/emoji/sparkles.png?v5"
+    }
+    ,
+    {
+      "name":    "David Newman",
+      "date":    "2012-03-13 00:19:11 -0400",
+      "tags":    ["he","his"],
+      "content": "Today is David \"The Newmerator\" Newman's first day as a GitHubber. He'll be helping make our employee onboarding process smooth as a baby's derriere.       David is a true pioneer: He makes his own soap, pickles his own pickles, sous-vides his own sous-vide, and has joined the GitHub team to forge ahead as mentor and guide to interviewees and new hires alike.  You can follow David on GitHub or Twitter.  Welcome to the team, David!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/53dd2fa15413d666968c0351b2030b743aae036a/68747470733a2f2f696d672e736b697463682e636f6d2f32303132303331332d746a753868733474616233386a7936696436746e386d357932702e6a7067"
+    }
+    ,
+    {
+      "name":    "Adam Roben",
+      "date":    "2012-03-05 13:54:19 -0500",
+      "tags":    ["him","his","code","git"],
+      "content": "We are really excited to announce that Adam Roben has joined the team today! Adam is currently based in North Carolina and will be helping us make Git and GitHub even better on Windows as well as being a general cross platform development bad ass. Adam has worked on a variety of notable projects including WebKit which means it is possible that you are running some of his code to read this post.    You may not know Adam now, but from what we've seen so far it won't be long before you are delighted with his work. Go follow him on Twitter and join us in welcoming him to the team!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/7455b1aace13bb947795c5b0a8f47e1ab84be5dc/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031322f6164616d5f726f62656e2e4a5047"
+    }
+    ,
+    {
+      "name":    "Matthew McCullough",
+      "date":    "2012-03-05 12:25:28 -0500",
+      "tags":    ["he","him","his","father","git","training"],
+      "content": "Matthew McCullough has been doing training courses and drinkups for GitHub for over a year now.  I'm happy to announce that Matthew (known as \"Matt\" by strangers, as \"Matthew\" by friends) has now transitioned to being a full time GitHubber!   Matthew's the  father of the arguably cutest Octocat, the Scarletteocat, jointly designed by both Scarlette and @jordanmccullough.      We asked him to do a pushup for every person he has taught how to use Git for us.     Matthew will now be able to concentrate 100% on helping people learn Git and GitHub though books, documentation, screencasts, in person training, conference workshops and online office hours and intro sessions like the one happening right now.  See our training page, his GitHub profile or Twitter to see what he's up to.  Welcome Matthew!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/14a3fb8050c53d0617c3fe73a3160916d6a1c734/687474703a2f2f662e636c2e6c792f6974656d732f31763146336c30433252314731383132315632552f736361726c657474656f6361742e6a7067"
+    }
+    ,
+    {
+      "name":    "Garrett Bjerkhoel",
+      "date":    "2012-02-20 14:06:44 -0500",
+      "tags":    ["he","his","developer","rails","ruby","enterprise","open source"],
+      "content": "Today is Garrett Bjerkhoel's first day as a GitHubber. He'll be helping make GitHub Enterprise better than ever.       Garrett created the kss-rails Rails Engine, the json_builder DSL for Ruby, contributed to a bunch of open source projects, and was even nominated by .NET Magazine for their Young Developer of the Year award.  For more info follow Garrett on GitHub, Twitter, or check his website.  Welcome to the team, Garrett!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/04d2eeaf23a1e236666846ec512c776ea4e9963f/687474703a2f2f636c2e6c792f454e30692f496d616765253230323031322e30322e323025323031303a35373a3435253230414d2e706e67"
+    }
+    ,
+    {
+      "name":    "Brian Doll",
+      "date":    "2012-02-20 13:43:12 -0500",
+      "tags":    ["he","him","his","marketing"],
+      "content": "Today is Brian Doll's first day as a GitHubber. His official position is \"Marketing Badass\", but really he'll be focusing on making GitHub even more awesome for everyone - especially new users and existing communities.       Follow him on GitHub, Twitter, or everywhere else.  Welcome to the team, Brian!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/46a80f0641051bc5a14d0fac97d67a79b0b291b4/68747470733a2f2f696d672e736b697463682e636f6d2f32303132303232302d65387971356633317464366b676e6b75647462386d36687477642e6a7067"
+    }
+    ,
+    {
+      "name":    "Jake Douglas",
+      "date":    "2012-02-13 17:17:31 -0500",
+      "tags":    ["he","him","his","contribution","system"],
+      "content": "Today Jake Douglas joins us as a GitHubber.  Jake is going to be helping us squeeze as much performance as we can out of our backend systems.  We're really excited to have him and we can't wait to see what he comes up with.    You might recognize him from his contributions to rubinius and EventMachine. You can follow him on twitter and GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/58feafec5798b427960540e29768f4f648d843c2/68747470733a2f2f696d672e736b697463682e636f6d2f32303132303231332d78313479743434367366656d746a6e6278666e71326a373532362e6a7067"
+    }
+    ,
+    {
+      "name":    "Russell Belfer",
+      "date":    "2012-01-17 14:13:08 -0500",
+      "tags":    ["he","him","his","her","code","web"],
+      "content": "Today is Russell Belfer's second day as a GitHubber.  He has been hacking away on libgit2 and joins us to do more of that and other things as well.     Mostly recently, Russell has been building web applications for a cloud telephony provider, but prior to that he's worked on interactive graphics, data analysis, and a variety of other things.  An interesting fact about Russell is that he got to hire both myself and Nick at a prior startup and we're all excited to be working together again.  Russell's daughter is most excited that her dad gets to work with Octocat in an office full of dogs.  You can read his code or follow him on twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/3ba24873fade1bf1d82a2265dd1e6073f7a8ec47/687474703a2f2f636c2e6c792f3345324e3345334a3030306b34303051316d31672f6769745f62656172642e676966"
+    }
+    ,
+    {
+      "name":    "Danny Greg",
+      "date":    "2012-01-16 16:34:52 -0500",
+      "tags":    ["he","his","code","software"],
+      "content": "Today marks Danny Greg's first day as a GitHubber. He'll be helping us rock GitHub for Mac to the max, as well as help us out on various other projects around the Hub. Previous to GitHub, Danny worked on some of our favorite software at Realmac and No Thirst, like Little Snapper, Courier, and MoneyWell.    Check out his tweets or some of his code.  Welcome, Danny!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ceab57d318aa75e2a1d209d4841e76b9ade01c8a/687474703a2f2f73686172652e6b796c656e656174682e636f6d2f63617074757265732f736b6974636865642d32303132303131362d3133323533372e706e67"
+    }
+    ,
+    {
+      "name":    "Eric Gerhardt",
+      "date":    "2011-12-09 17:17:37 -0500",
+      "tags":    ["he","him","web","enterprise","manager"],
+      "content": "Today marks Eric Gerhardt's first official day as a GitHubber. Coming from a background as an Account Manager at a web-based startup, he'll be joining us as an Account Manager. At a web-based startup.  If you have account-related questions, you'll probably be hearing from him at some point. He'll be helping us foster solid relationships with our existing and new GitHub Enterprise customers. In the meantime you can follow him on Twitter.     Welcome Eric!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/955619c1f8123b73197c63a9a51ec9e052618590/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230392d626a78646d77623573356b75387072646d62376d7335786679322e706e67"
+    }
+    ,
+    {
+      "name":    "Nathan Sobo",
+      "date":    "2011-12-08 17:27:03 -0500",
+      "tags":    ["his","code","developer","ruby"],
+      "content": "Today is Nathan Sobo's first day as a GitHubber. An experienced polyglot, Nathan will be joining our R&D department to work on GitHub's experimental \"hubot teleport me\" technology.       Nathan was the original force behind Treetop, a Ruby-based parsing DSL based on parsing expression grammars. With over 4 million downloads, if you're a Ruby developer there's a good chance you've used Treetop directly or indirectly.  Check out Nathan's Treetop talk from Rubyconf 2007 to learn more about packrat parsing and Treetop or his GitHub profile to find more super interesting code.  Welcome to the team, Nathan!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/420814ec3655eb3b690a3827190d3a2026eaebed/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230382d6e366438393639376577716973716373653773796572396b34752e6a7067"
+    }
+    ,
+    {
+      "name":    "Phil Haack",
+      "date":    "2011-12-07 12:25:44 -0500",
+      "tags":    ["he","him","his","developer","blog"],
+      "content": "Today we are joined by the one and only Phil Haack. Phil hails from the Seattle area in Washington where he's been leading the development of both ASP.NET MVC and NuGet. He will be helping make GitHub better on many fronts with a special focus on all you Windows developers out there.    There's a good chance you already know Phil, but if you don't, go check out his blog, read one of his books, or follow him on Twitter.  We are very excited to welcome Phil to the team!",
+      "image":   "https://s3.amazonaws.com/github-images/blog/2011/PhilHaack.JPG"
+    }
+    ,
+    {
+      "name":    "Jon Rohan",
+      "date":    "2011-12-06 13:11:04 -0500",
+      "tags":    ["he","him","his","developer","web","blog"],
+      "content": "Today marks Jon Rohan's second day as a GitHubber (I tried to announce him yesterday, but the blog kept giving me ERR: TOOMANYHUBBERS every time I hit publish). He'll be bringing his badassfrontendengineering expertise to make GitHub more awesome.     You may know Jon from his web developer's field guide, botriot or perhaps his witty twitter feed or sexy dribbble feed.   Help us welcome Jon and his stache to the team!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/76a463427583327e8e3b54ddef37eaeb6c5cd7db/687474703a2f2f73686172652e6b796c656e656174682e636f6d2f63617074757265732f736b6974636865642d32303131313230352d3135323830372e706e67"
+    }
+    ,
+    {
+      "name":    "Matt Graham",
+      "date":    "2011-12-05 13:02:26 -0500",
+      "tags":    ["he","him","his","design"],
+      "content": "Today marks Matt Graham's first day as a GitHubber. One of the pixel pushing design geniuses behind Ordered List, Matt will be helping make GitHub easier to use and more beautiful than ever. He lives in Port Huron, Michigan.       It doesn't take more than a few seconds browsing Matt's Dribbble profile or his website to see that he's the real deal. Follow him on Twitter, GitHub, or Flickr to get to know him even better.  Welcome to the team, Matt!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/f702b0d33e477d04889701f6e1a4aab62a5880db/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230352d747370757834373233777435327233673978346a74697237796d2e6a7067"
+    }
+    ,
+    {
+      "name":    "Brandon Keepers",
+      "date":    "2011-12-05 13:02:23 -0500",
+      "tags":    ["he","him","his","code","developer","system","open source"],
+      "content": "Today marks Brandon Keepers' first day as a GitHubber. Brandon is a superb developer who helped make Ordered List awesome and will do the same for every part of GitHub he touches. He lives in Holland, Michigan.     Original   An opinionated blogger, I've known and respected Brandon for many years. Check out his great open source code (notably his Heroku-ready background processing system Qu), follow him on Twitter, or browse his Flickr photos to learn more.  Welcome to the team, Brandon!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/048a2a21c4638c95b1752ade75cf84a9a9b0d455/687474703a2f2f696d672e736b697463682e636f6d2f32303131313230352d61336a796472613937723732676779657766717579777977632e6a7067"
+    }
+    ,
+    {
+      "name":    "Jonathan Hoyt",
+      "date":    "2011-12-05 13:02:21 -0500",
+      "tags":    ["he","him","his","code","ruby","programming","api","blog"],
+      "content": "Today marks Jonathan Hoyt's first day as a GitHubber. A self proclaimed \"Programming Butler\", at Ordered List Hoyt was instrumental in building one of my favorite apps - Speaker Deck. He'll be helping us bring all GitHub products to the next level. He lives in Elkhart, Indiana.     Original   His blog is great and so his code - especially ghee, his unofficial Ruby client for the GitHub API v3. Follow his tweets or stalk him on Flickr if you want more.  Welcome to the team, Hoyt!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/a6c19452af43cb27f2c3fb12f1d7e7b2e1b4d9ed/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230352d3166633367367368347173666b687470633275786b38616532332e6a7067"
+    }
+    ,
+    {
+      "name":    "John Nunemaker",
+      "date":    "2011-12-05 13:02:18 -0500",
+      "tags":    ["he","his","code","web","ruby","programming","contribution","interface","scaling","open source"],
+      "content": "Today marks John Nunemaker's first day as a GitHubber. Formerly Ordered List's CTO, John will help make GitHub even better using his experience scaling web services, bringing beautiful interfaces to life, launching amazing products, and running a successful company. He lives in South Bend, Indiana.     Original   If you've done any Ruby programming at all you've almost certainly used one of John's open source contributions. From HTTParty and the Twitter gem to MongoMapper and Toystore, John does a bit of everything. He's also been blogging for years at RailsTips and Addicted to New.  For even more check out his Speaker Deck presentations, Tumblr, Flickr photos, code, and Tweets.  Full disclosure: I'm a huge jnunemaker fanboy.  Welcome to the team, John!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/b7afd1454df44d8a1a2bc62933957009a869eded/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230352d746e686163316b3435686d753737367261646b6a67776b3670312e6a7067"
+    }
+    ,
+    {
+      "name":    "Steve Smith",
+      "date":    "2011-12-05 13:02:16 -0500",
+      "tags":    ["he","his","code","developer","designer","business","interface"],
+      "content": "Today marks Steve Smith's first day as a GitHubber. Founder and CEO of Ordered List, Steve is a world renown designer and developer who occasionally enjoys a fine scotch. He makes beautiful, simple interfaces and has invaluable experience running a business and launching high quality products. We're pretty sure he's going to do some amazing things at GitHub. He lives in South Bend, Indiana.    Original   If you want to get to know Steve, his Dribbble profile and Speaker Deck presentations are great places to start. Once you pick your jaw off the ground be sure to check out his Tweets, Flickr photos, and code.  Welcome to the team, Steve!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/1a712a734f8aa31882396e08a947e5bd56f0072d/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230352d646664707777786e3379696972677539616b6433316d667865642e6a7067"
+    }
+    ,
+    {
+      "name":    "Sonya Green",
+      "date":    "2011-12-01 16:09:49 -0500",
+      "tags":    ["she","her","support","blog"],
+      "content": "If you've contacted GitHub Support recently you may have had the pleasure of chatting with the one and only Sonya Green. If you attended PyCodeConf there's a good chance you met her (over mojitos?) as well.  Sonya has been with GitHub for months helping with support and today joins the team full time. She's played a huge role in streamlining our support workflow and making sure everyone gets the attention they deserve, from prompt responses to excellent emails. We're super excited to have her spending even more time making your GitHub experience a great one.       We hope you'll never have to contact GitHub Support, but if you do Tekkub, Petros, and now Sonya will take great care of you.  For more on Sonya, follow her on Twitter or read her blog.  Welcome to the team, Sonya!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ce9e7ed53c054741c1edcf68b6bc3cbe0f59d2bd/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313230312d777278313977616470617777717335706239346636773678632e6a7067"
+    }
+    ,
+    {
+      "name":    "Joel Watson",
+      "date":    "2011-11-07 16:53:36 -0500",
+      "tags":    ["he","ruby","enterprise","support"],
+      "content": "Today marks Joel Watson's first day as a GitHubber. He joins us as a support extraordinaire and ruby hacker to lend a hand with GitHub and GitHub Enterprise.    Keep track of what he's up to here:  GitHub: https://github.com/watsonian  Twitter: https://twitter.com/#!/watsonian  Welcome to the team Joel!",
+      "image":   "https://si0.twimg.com/profile_images/743994764/avatar_web.jpg"
+    }
+    ,
+    {
+      "name":    "Jake Boxer",
+      "date":    "2011-10-26 12:49:02 -0400",
+      "tags":    ["he","him","his","code","rails","ios","blog","android"],
+      "content": "Today marks Jake Boxer's first day as a GitHubber. He'll be helping make your github.com experience even more enjoyable.      Jake is a man of many hats, having shipped Rails apps, iOS apps, Android apps, and more. Get to know him better by reading his blog, following his tweets, or forking his code.  Welcome to the team, Jake!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/a9326fc6f2e7558bcb8314fe347ac0bd94cc204d/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313032362d6b6e3279386b616267646133786a776231786b753473366331722e6a7067"
+    }
+    ,
+    {
+      "name":    "Lee Reilly",
+      "date":    "2011-10-24 18:32:10 -0400",
+      "tags":    ["he","ruby","enterprise","support","blog"],
+      "content": "Today marks Lee Reilly's first day as a GitHubber, joining us as a support engineer for our GitHub Enterprise product. A product of Glasgow, Scotland, he loves Ruby and is the author of a sweet GitHub miniapp.    Links you'll need to get to know this fine gentleman:  GitHub: http://github.com/leereilly  Twitter: http://twitter.com/lee337reilly  Blog: http://leereilly.net/  Welcome Lee!",
+      "image":   "https://si0.twimg.com/profile_images/1577612464/avatar.png"
+    }
+    ,
+    {
+      "name":    "Nick Hengeveld",
+      "date":    "2011-10-18 19:42:21 -0400",
+      "tags":    ["him","his","git","system"],
+      "content": "I'm happy to announce the newest addition to the GitHub team, Nick Hengeveld.  Nick introduced me to a little version control system called Git back in 2005.  His first commit to the Git codebase was in September of that year - about 5 months after Linus started it.     Nick also has his assistants, Fezzik and Maverick, on hand at all times to help out with really difficult problems here at GitHub.    Please help welcome Nick and his assistants into the GitHub fold.  You can find him on GitHub and Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/158cde03f748c461ec6a31dda453c88bf6be0455/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313031392d6666726d346b343632707139676233367836676b6e6278776a6a2e6a7067"
+    }
+    ,
+    {
+      "name":    "Roberto Tyley",
+      "date":    "2011-10-10 19:09:54 -0400",
+      "tags":    ["him","git","open source","android"],
+      "content": "Today marks Roberto Tyley's first day as a GitHubber.      Roberto is the man behind the Agit android client which allows you to actually clone a Git repository directly to the storage of your phone and browse it locally.  It is also open source if you want to see some cool usage of JGit on Android.  Follow him on Twitter at @rtyley or GitHub at the same.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/b76370164bb65a89166a2b815b31212b0e8019d2/68747470733a2f2f696d672e736b697463682e636f6d2f32303131313031312d6a6a3273386d7370393571776a6133733439746e3269323163362e6a7067"
+    }
+    ,
+    {
+      "name":    "Justin Palmer",
+      "date":    "2011-09-26 14:48:01 -0400",
+      "tags":    ["he","his","git","ios","javascript","objective-c","c","design"],
+      "content": "Today marks Justin Palmer's first day at GitHub. He'll be bringing his design & coding skills to make our Mac client, iOS apps and everything in between awesome.       Justin was one of the first core members of Prototype.js, designed Lighthouse and has a ton of interesting Objective-C and Javascript projects on his GitHub profile. Check out some of his projects:   portlandcrime - Mapping crime in Portland, OR.  HTTPRiot - An Objective-C HTTP library.  GitNub - One of the first graphical OSX Git applications. Fun fact: Justin helped with design of FamSpam, @defunkt and @pjhyett's company prior to GitHub, co-founded ActiveReload with @technoweenie to create Lighthouse and worked with me at ENTP in previous life. It seems appropriate we're re-uniting the crew just as Gears of War 3 is released.  You can find Justin at http://labratrevenge.com/, @Caged on Twitter, and Caged on GitHub.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/758693c9742ae2cf260766f28984f69df926cb6f/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303932362d74666677346868666b68746674623379316b79773666707072352e6a7067"
+    }
+    ,
+    {
+      "name":    "Jina Bolton",
+      "date":    "2011-09-08 14:27:20 -0400",
+      "tags":    ["she","her","gal","designer","css","design"],
+      "content": "Today is Jina Bolton's first day at GitHub. We're all incredibly excited to have yet another Sushi, Robots and coffee lover here at GitHub, and I hear she's a pretty amazing designer as well.    Photo by Kyle Steed.  You may know Jina from some of the books she's written: Fancy Form Design and The Art & Science of CSS.  She's also an accomplished speaker, author, trivia enthusiast, and all around great gal.  You can follow her on Twitter as @jina and on GitHub as jina.  Welcome to the team, Jina!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/1c1b8ed1eea35eadc6237e27a6d69c323a236bb3/687474703a2f2f6661726d332e7374617469632e666c69636b722e636f6d2f323738382f343433343833393531305f333133653131346335365f7a2e6a7067"
+    }
+    ,
+    {
+      "name":    "Jesse Newland",
+      "date":    "2011-08-25 17:03:05 -0400",
+      "tags":    ["him","his","code","rails","sysadmin","deployment","scaling","reliable"],
+      "content": "Today marks Jesse Newland's first day as a GitHubber. Jesse is joining us as our third full-time sysadmin. We've known Jesse since before GitHub started and couldn't be more excited to finally be working with him.  From scaling massive sites at Rails Machine to working on app deployment and configuration via Moonshine and Puppet, Jesse has the experience necessary to help keep GitHub fast and reliable as we continue to grow.       Want more? Follow his tweets or browse his code.  Welcome, Jesse!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/2c262d12a34e5232d021674465810c86f5903b59/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303832352d7161396936376438386b6371613471356364777778646a796a622e6a7067"
+    }
+    ,
+    {
+      "name":    "Alex Williams",
+      "date":    "2011-08-22 18:34:40 -0400",
+      "tags":    ["his","code","contributor","sysadmin","scaling","server","blog"],
+      "content": "Today marks Alex Williams' first day as a GitHubber. Alex is joining us as our second full-time sysadmin.  As a battle-hardened scaling expert, Alex will help us grow our current cluster of fifty servers at Rackspace into the Super Cluster of Tomorrow™ (SCT) that is quickly becoming necessary to satisfy our exponential growth. Alex is the author of the Scaling Experts blog and eBook, an HAProxy contributor, quadralingual, and a Canadian living in Japan.       Want more? Read his blog, follow his tweets, or browse his code.  Welcome, Alex!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/9a1842be7eca461ceafe1f58a5f21a9a9560ebfb/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303832332d663172726165786e6a706e75667472377268796b7964786e776e2e6a7067"
+    }
+    ,
+    {
+      "name":    "Paul Betts",
+      "date":    "2011-08-01 15:00:00 -0400",
+      "tags":    ["he","his","code","ui","support","blog"],
+      "content": "Today marks Paul Betts' first day as a GitHubber. Paul will be helping us make GitHub even better on Windows.  A quick look through some of his GitHub repos shows Paul's experience and eclectic interests: from declarative UI frameworks to CoffeeScript and SASS support for ASP.net, Paul likes to get his hands dirty. It also doesn't hurt that he's been a GitHub user since the beta.       Want more? Read his blog, follow his tweets, or browse his code.  Welcome Paul!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/7e9ecc023a3260b6600d683a327cd4ab70a5df64/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303830322d78363978656161673679396331396269377234717272733571712e6a7067"
+    }
+    ,
+    {
+      "name":    "Jon Maddox",
+      "date":    "2011-07-18 15:02:42 -0400",
+      "tags":    ["he","him","his","ios","iphone app"],
+      "content": "Today is Jon Maddox's first day at GitHub. Maddox has been a friend of GitHub for years and I'm extremely proud to finally have him on the team. In many ways, it feels like he already was.  As the mastermind behind awesome iPhone apps such as Summizer and Streaks, Maddox will be kicking our iOS development up seven or eight more notches. Bam!     You can keep track of what he's up to at GitHub, Twitter, and his personal website.  Welcome, Maddox!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/e16c74566c628bab0d73c9aefd2399992fea4d17/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303731382d6a7566746270717771323169776467643472696a376a38696d6a2e6a7067"
+    }
+    ,
+    {
+      "name":    "Matt Todd",
+      "date":    "2011-06-07 17:44:44 -0400",
+      "tags":    ["he","developer","open source"],
+      "content": "Today is Matt Todd's first day at GitHub. After some initial confusion that we were hiring a New Zealand Rugby Union footballer, this Matt Todd is an acclaimed Rubyist and prolific open source developer. He'll be helping us with the ever-growing GitHub:FI product.     You can keep track of what he's up to at GitHub, Twitter, and Tumblr.  Welcome Matt!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/a9f09aa92204569f1b49ace8aa2efedb003fbca9/687474703a2f2f6661726d332e7374617469632e666c69636b722e636f6d2f323334352f353737343230363831365f373463666339666339632e6a7067"
+    }
+    ,
+    {
+      "name":    "Kami Lott",
+      "date":    "2011-06-02 17:15:43 -0400",
+      "tags":    ["she","her","support","community","programming","manager","writing","organizing","coordinating"],
+      "content": "I'm proud to announce that Kami Lott has joined our team!  Kami will be serving as our first ever Community Manager. That means she'll be organizing meetups, coordinating sponsorships, scheming up programming contests, writing case studies about our awesome customers (you!), and responding to your great feedback on Twitter and through our support channels.       Since you're all part of the GitHub community, make sure to follow her on GitHub and Twitter. She's here to help make your experience with GitHub a great one.  Welcome aboard, Kami!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/dcdafcee6c503667410a77affa14e6610fea7524/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303630322d64376b797136703238396372696d363968396a336477796378672e6a7067"
+    }
+    ,
+    {
+      "name":    "Ben Burkert",
+      "date":    "2011-05-02 14:41:56 -0400",
+      "tags":    ["he","him","system","deployment","reliable"],
+      "content": "Today marks Ben Burkert's first day as a GitHubber.   A deployment expert and systems maven, he'll be making the GitHub Firewall Install even more reliable and incredible.      (Photo by adelcambre)   For a taste of Ben's greatness, follow him on GitHub and Twitter.  Welcome to the team, Ben!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ea7c33a1185e312e9b3bb883427ef99eb380bbc3/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303530322d6471696664673438666232673268643538663368647431356b322e6a7067"
+    }
+    ,
+    {
+      "name":    "Jason Costello",
+      "date":    "2011-04-19 13:43:46 -0400",
+      "tags":    ["he","him","designer","font","illustrator","usability"],
+      "content": "Today marks Jason Costello's first day as a GitHubber.   A font fanatic, pro illustrator, and usability expert, Jason will be joining our world class team of designers in making the site easier, prettier, and better.       He's not on Twitter but you can always follow him on GitHub: https://github.com/firstdegree  Welcome to the team, Jason!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/8a54fddaebc5b74a6d42ea4f74b24b68cbaf4b07/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303431392d6733656b796b343168396b33776b6136326e6e677569636b68612e6a7067"
+    }
+    ,
+    {
+      "name":    "Ben Bleikamp",
+      "date":    "2011-04-04 12:20:36 -0400",
+      "tags":    ["he","him","his","code","design","blog"],
+      "content": "Today marks Ben Bleikamp's first day as a GitHubber. He'll be making the site easier to use and easier on the eyes.    Check out his blog, Dribbbles, Tweets, and codes to learn more about Ben, or catch him at one of the SF Design Lunches he co-organizes.  We're super excited to have Ben on the team and can't wait to see all the greatness he'll bring to GitHub.  Welcome to the team, Ben!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/128ef92e6720395d3f9f23ba1a1a0f9580d6c3c7/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303430342d7436696271736d6869706d3271693272366e37373469383833612e6a7067"
+    }
+    ,
+    {
+      "name":    "Josh Peek",
+      "date":    "2011-04-01 04:05:49 -0400",
+      "tags":    ["he","him","his","rails","ruby","contributor","open source"],
+      "content": "Today marks Josh Peek's first day as a GitHubber.   With a user id of 137, Josh was one of the very first GitHub users and remains one of the most prolific. He's a major contributor to Ruby on Rails, Rack, Sprockets, Tilt, execjs and has improved tons of other open source projects. He's also created some great stuff, including mustache-trimmer and nack.   Photo by adelcambre   Make sure you follow him on Twitter and GitHub, and be sure to check out his dotfiles and Emacs config if you're into that sort of thing.  Welcome to the team, Josh!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/78d6151831ef1743f51a5b81e0847a3d4d6c6078/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303430312d78676761707879677479657572377865343563796735366e65362e6a7067"
+    }
+    ,
+    {
+      "name":    "Vicent Marti",
+      "date":    "2011-03-29 14:55:00 -0400",
+      "tags":    ["he","him","code","git","c"],
+      "content": "Several months ago we blogged about how Vicent was helping us develop libgit2, a linkable Git library.  Well, we're proud to announce that Vicent is now a GitHubber!    Vicent was the student in the Google Summer of Code project that I mentored and did an amazing job with the project.  GitHub hired him as a contractor to keep working on the project and now he's accepted a full time job working at GitHub.  Vicent will continue kicking ass on the libgit2 project making sure that it's \"fucking fast\", as well as other hard core C related stuff.  This may mark the first time that a Google Summer of Code project has fairly directly led to a student dropping out of school, but we're pretty proud of the precedent.  It was just a masters degree, after all.  Check out Vicent on GitHub and on Twitter.",
+      "image":   "https://a248.e.akamai.net/camo.github.com/27bcbb6bd9ecac70c064bb910fec93607d9c801f/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303332392d673735773369727139646172617363796864756d6a62643867632e706e67"
+    }
+    ,
+    {
+      "name":    "Alex Malinovich",
+      "date":    "2011-03-28 17:28:19 -0400",
+      "tags":    ["he","him","his","developer","ruby","sales"],
+      "content": "Today marks Alex Malinovich's first official day as a GitHubber. A Ruby developer turned Sales Extraordinaire (or the far more boring Technical Sales Specialist title he's given himself on his LinkedIn profile), he'll be helping us with our venerable GitHub:FI product.    A long-time GitHub user, we're happy to have found someone that possesses the technical chops and sales experience to help customers no matter what question comes his way.  Make sure you follow him on Twitter and GitHub.  Welcome Alex!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/f026a73c9f6f0554b6d9d47d32d9f2f9522bb9ad/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303332382d726a6761327978716d3169376b3935683479737368786a7172722e6a7067"
+    }
+    ,
+    {
+      "name":    "Kevin Sawicki",
+      "date":    "2011-03-15 14:45:18 -0400",
+      "tags":    ["he","his","community","java"],
+      "content": "Today marks Kevin Sawicki's first day as a GitHubber. Between his work on the excellent P4Eclipse plugin and his experience at Aptana prior to that, he eats, sleeps, and breathes Eclipse. We're excited to have someone with his level of expertise and knowledge of the Java community on the team.     He's in desperate need of a few more Twitter followers and you're gonna want to keep an eye on his GitHub profile when the hotness begins to drop.  Welcome to the team, Kevin!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/72b9feaaa850eef6dad2e4c4a6e3df38528df9f2/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303331352d7173316e7135786d33393662726d6e39716b77356433363737342e6a7067"
+    }
+    ,
+    {
+      "name":    "Josh Abernathy",
+      "date":    "2011-02-28 14:31:06 -0500",
+      "tags":    ["he","cocoa","ios","android"],
+      "content": "Today marks Josh Abernathy's first official day as a GitHubber. As the brains behind Maybe Apps, Josh has been doing amazing work on the iOS, Android, and Mac platforms for years. And now he's going to bring that awesome to you, loyal GitHub fans.       There are a bunch of great projects on Josh's GitHub profile, from JAListView (an NSTableView replacement) to demos of how popular apps pull off their slick animations. If you're into Cocoa it's a gold mine.  Follow Josh on Twitter and GitHub for more.  Welcome to the team, Josh!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/9e1e94f662f43b4e9599c06e03b317fecb780c13/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303232382d65776d656b6a64726132686374623535623167753134796b31782e6a7067"
+    }
+    ,
+    {
+      "name":    "Tater",
+      "date":    "2011-02-11 12:24:24 -0500",
+      "tags":    ["his"],
+      "content": "To finish off this epic week of hiring, we're announcing that @tater is now a GitHubber.         Tater is coming on as our new Chief Happiness Officer (sorry PJ).  Look at that face!  All Tater wants to do is make everyone happy.  His main task will be to drop pug bombs when we least expect it.    Welcome to the team, Tater!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/032f1018e16fffd72f59e61628a589cab7ac2120/687474703a2f2f6661726d312e7374617469632e666c69636b722e636f6d2f3136342f3333363430323630305f363862613262336130662e6a7067"
+    }
+    ,
+    {
+      "name":    "Aman Gupta (tmm1)",
+      "date":    "2011-02-10 13:39:15 -0500",
+      "tags":    ["he","his","tool","code","developer","rails","ruby","server","writing"],
+      "content": "Today marks Aman Gupta's first day as a GitHubber. Years ago, Aman embarked upon a crusade to make Ruby faster, leaner, more concurrent, and more debuggable. Today he brings that expertise to GitHub.       We've already been using Aman's code for years. His work on EventMachine has allowed us to write a routing proxy in Ruby that shuttles gigabytes of data between the frontends and file servers with ease and simplicity. Tools like memprof, gdb.rb, perftools.rb, and rbtrace have finally given Ruby developers fine grained insight into the memory and performance of their Ruby projects. Whether he's disassing MRI or writing killer Rails code, you can count on Aman to take things to the next level.  We're insanely excited that Aman has joined the team, and you can be sure to see his mark on GitHub very soon.  (And don't forget to follow Aman on Twitter and GitHub for additional awesome.)",
+      "image":   "https://a248.e.akamai.net/camo.github.com/d7637044e1744927ad8434aebfb1008e16acc544/687474703a2f2f746d6d312e6e65742f6d652e676966"
+    }
+    ,
+    {
+      "name":    "Simon \"sr\" Rozet",
+      "date":    "2011-02-09 19:21:37 -0500",
+      "tags":    ["him","his","ruby","contribution"],
+      "content": "Today we're happy to announce that Simon Rozet has joined the GitHub team.  His experience working on large Ruby applications and as a heavy GitHub user will surely result in some pretty sweet improvements.       Simon hails from Brussels, Belgium and is currently visiting our offices in SF. Say hi if you see him at the drinkup this week.  You might recognize Simon from his contributions to Sinatra and Integrity projects, but even if you don't you should definitely follow him on GitHub and Twitter.   Welcome to the team, Simon!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/26a8ab92b7c98045b2a0a135e6e92cf976544149/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303231302d38706535633872636462776933697233743779313377797072732e6a7067"
+    }
+    ,
+    {
+      "name":    "Mislav Marohnić",
+      "date":    "2011-02-08 14:09:29 -0500",
+      "tags":    ["he","him","his","web","ruby","javascript","blog"],
+      "content": "Today marks Mislav Marohnić's first day as a GitHubber. As a JavaScript and Ruby expert, Mislav is going to help us bring some serious awesome to your github.com experience.       Whether it's his beautiful Instagram web frontend, his innovative approach to Explaining Ruby, his groundbreaking work on will_paginate, or his amazing blog, Mislav has been impressing us for years.   We're super excited to have him on the team and even more excited to see what he's going to do. Welcome, Mislav!  (And don't forget to follow Mislav on Twitter and GitHub for even more greatness.)",
+      "image":   "https://gist.github.com/raw/7aa5bcd88ccc0858a431/mislav.gif"
+    }
+    ,
+    {
+      "name":    "Tim Clem",
+      "date":    "2011-02-07 18:06:04 -0500",
+      "tags":    ["he","his","code","creative","iphone app","blog"],
+      "content": "Today marks Tim Clem's first day as a GitHubber. From repairing battleships with laser wielding robots to creating iPhone apps, Tim has done it all. He'll be using his vast expertise to help us with top secret projects. Also: kegerator.       Check out Tim's blog for great posts, his Twitter for classy Instagrams, and his GitHub for creative code.  Welcome to the team, Tim!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/f41e46731c0fc60c50ba7c69d155847b8bcba108/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303230382d383138396e64613672313231753472676b3431726d7034336b692e6a7067"
+    }
+    ,
+    {
+      "name":    "Corey Johnson",
+      "date":    "2011-02-01 04:05:57 -0500",
+      "tags":    ["he","him","his","developer","ios","ruby","programming","iphone app","open source","writing"],
+      "content": "Today marks Corey \"probablycorey\" Johnson's first day as a GitHubber. He will be working on top secret projects. You will never guess what they are.    Corey's background is diverse, from game programming to Ruby libraries, iPhone apps to Empire State Building themed sites. One of his greatest open source projects is wax, a framework for writing iPhone apps in Lua. It even lets you spin up an interactive iOS console.  Corey is an awesome person, a great developer, and his presence alone will improve GitHub. Definitely follow him on Twitter and check out his GitHub profile for more.  Welcome to the team, Corey!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/3158edf60759ff237f2ed4d402048076b92df19b/687474703a2f2f662e636c2e6c792f6974656d732f3151307932373255304f3277326d3375336231592f70726f6261626c79616e696d617465642e676966"
+    }
+    ,
+    {
+      "name":    "Cameron McEfee",
+      "date":    "2011-01-17 14:08:07 -0500",
+      "tags":    ["he","him","his","interface","blog"],
+      "content": "Today marks Cameron McEfee's first day as a GitHubber. You may have seen some of his recent work:   GitHub's 404 GitHub's 500 From making books and posters to TV commericals and interfaces, Cameron does it all. We're super excited to have him on the team and think he's going to bring a world of awesome to GitHub.       Want more? Admire his portfolio, browse his blog, or follow him on Twitter.  Welcome Cameron!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/b3991bbce627bcb4586b79059c620e9e521f5299/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303131372d71716d753268613264776b3733363638666e75647367723879792e6a7067"
+    }
+    ,
+    {
+      "name":    "Jeff King (Peff)",
+      "date":    "2011-01-03 16:32:28 -0500",
+      "tags":    ["he","him","his","git","contributor","c"],
+      "content": "We're very excited to announce that core Git member Jeff King will also be joining the team today! But don't call him Jeff, he prefers Peff. Peff is one of the most active contributors to Git and will be using his expertise and hardcore C skills to make Git even better and more usable.       I could expound upon everything that Peff's done for the Git project, but instead let me just show you this list of the top ten commiters to Git:   $ git log --pretty=format:%aN | sort | uniq -c | sort -rn 8740 Junio C Hamano 1384 Shawn O. Pearce 1096 Linus Torvalds  719 Johannes Schindelin  499 Jeff King  465 Eric Wong  434 Jakub Narebski  394 Jonathan Nieder  344 Nicolas Pitre  322 Paul Mackerras   Welcome to the team, Peff!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/fd0b7da455b8ceb32c7d242928fca5cc05762cf7/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303130332d677774796e6a636867383132397063676b7931653834706e6a782e6a7067"
+    }
+    ,
+    {
+      "name":    "Bryan Veloso",
+      "date":    "2011-01-03 12:50:49 -0500",
+      "tags":    ["he","father","code","design","blog"],
+      "content": "Today marks Bryan Veloso's first day as a GitHubber. He'll be making GitHub easier to use, prettier to look at, and more powerful.       The world renowned \"father\" of the Django Pony, Bryan writes awesome code and creates beautiful designs. He also blogs and tweets.  Welcome to the team, Bryan!  Update: Newer pic!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/dda3a7d8109a20ca1e068d0411c6c74d10d9ab0a/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303130332d6e656b6e326b367535626e3437366a7767363566333762726d362e6a7067"
+    }
+    ,
+    {
+      "name":    "Brian Lopez",
+      "date":    "2010-11-01 14:13:38 -0400",
+      "tags":    ["he","him","rails","ruby","contribute","open source"],
+      "content": "Today marks Brian Lopez's first day as a GitHubber. He'll be helping us make the front end of the website more awesome, from performance enhancements to new features.  You may recognize Brian as the mastermind behind yajl-ruby and mysql2, two superb open source libraries, but he also contributes to Rails and has released a slew of other libraries.       Also, he can really pull off a hat. Follow him on Twitter and GitHub.  We've all been huge fans of Brian's for a long time and are super excited about working with him. Welcome to the team, Brian!  ",
+      "image":   "https://a248.e.akamai.net/camo.github.com/091256886c3352d6bc4aa7f3c2bc67f23d05898e/687474703a2f2f696d672e736b697463682e636f6d2f32303130313130312d63626a6b616a6970346a336e74336b34727968706d62726d70792e6a7067"
+    }
+    ,
+    {
+      "name":    "Tim Sharpe",
+      "date":    "2010-09-24 13:15:19 -0400",
+      "tags":    ["he","his","sysadmin","server"],
+      "content": "Monday marked Tim Sharpe's first day at GitHub. He'll be joining us as our first full time sysadmin. His skills in Puppet and DRBD configuration are legendary. While not fighting crocodiles or dropbears in the Australian outback, Tim will be in charge of making sure that our servers stay comfy and warm in their racks.    With Tim on board, you can be sure that any problems will be handled with finesse and we'll be ready to grow to accommodate all of the repos you can throw at us.  Welcome, Tim!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ae71eec560713a5bd45e66066cc32a1013e1538c/687474703a2f2f696d672e736b697463682e636f6d2f32303130303932342d676932717436396667706a31313437776b396a676d636b686e312e6a7067"
+    }
+    ,
+    {
+      "name":    "Eston Bond",
+      "date":    "2010-09-15 15:22:24 -0400",
+      "tags":    ["he","his","designer","blog"],
+      "content": "Monday marked Eston Bond's first day at GitHub. He'll be joining me working on the look & feel of all things GitHub. We're all stoked to have another designer on board and can't wait to see what awesome comes from it.    You might know Eston from his time as a Product Designer at  Facebook fame or as the designer of Spymaster. Eston is starting a new blog at estonbond.com, tweets as @eston and hacks as eston.  Welcome, Eston!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/fb3721461a8e6731a92561826a59a002cdf84095/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031302f6573746f6e626f6e642e6a7067"
+    }
+    ,
+    {
+      "name":    "Corey Donohoe",
+      "date":    "2010-08-30 20:25:22 -0400",
+      "tags":    ["he","him","his","node.js","node","blog"],
+      "content": "Today marks Corey \"atmos\" Donohoe's first day as a GitHubber. He'll be helping us make GitHub more awesome.       We're all super excited to have Corey on board, and a quick browse through his repos explains why: Sinatra, node.js, and OAuth are among his interests. He has some amazing dogs, too.  Also OS X - if you like the sound of homebrew and chef you'll definitely want to check out his cider project.   You can follow him on GitHub, twitter, tumblr, or at his blog.   Welcome to the team, Corey!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/ef373b0dc56f31bd8324605c45006a56f2fd8fce/687474703a2f2f696d672e736b697463682e636f6d2f32303130303833312d6577693475383275663978313266797068637364716e717873352e6a706722"
+    }
+    ,
+    {
+      "name":    "Rick Olson",
+      "date":    "2010-04-05 13:47:44 -0400",
+      "tags":    ["he","him","his","code","developer","rails","ruby","software","support","node.js","node","server","open source","blog"],
+      "content": "Today marks Rick \"technoweenie\" Olson's first day as a GitHubber. He'll be making GitHub more awesome just by being here, but we hope he'll also add new features, improve existing features, and whip the codebase into shape.       A former member of the Rails Core team, Rick is a master open source craftsman with nearly 100 public projects on his GitHub profile. Old school Rails developers will recall his classic acts_as_paranoid, acts_as_versioned, acts_as_authenticated, or exception_logger plugins, while new school developers will surely recognize restful_authentication and attachment_fu, two of the most watched projects on GitHub  But he's more than just a Ruby on Railer. Rick writes jQuery plugins, node.js libraries and servers, Rack middleware, GitHub hacks, as well as some crazy experiments.  He co-created Calendar About Nothing, islostonyet, Warehouse (one of the inspirations for GitHub), and Lighthouse before he was the lead developer on Tender, the software that powers GitHub's Support site.  If that's not enough, you can read his blog, his twitter, his tumblr, his code, or catch him on XBox LIVE as technoweenie.  Welcome to the team, Rick!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/89e5384c3826bc9fdd11fdb14e5ce411d5f4888a/687474703a2f2f696d672e736b697463682e636f6d2f32303130303430352d70356a6966667838683868723765377074733961626b373936742e6a7067"
+    }
+    ,
+    {
+      "name":    "Zach Holman",
+      "date":    "2010-03-16 16:48:50 -0400",
+      "tags":    ["he","his","code","git","blog"],
+      "content": "Today is Zach Holman’s first day as a GitHubber. He’ll be making GitHub:FI even more awesome. When we met Zach we were immediately impressed. From his strange sense of humor to his non-traditional uses of Git, we knew he’d be a great fit for our team.  When he’s not ego surfing, he blogs, tweets, and codes. Bonus points for consistent usernames across services. Welcome to the team, Zach!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/c165443061c3f707058ec704aca937b12098bc80/687474703a2f2f696d672e736b697463682e636f6d2f32303130303331362d6b343373667432356a376d3675657978356b783470397431706e2e6a7067"
+    }
+    ,
+    {
+      "name":    "Ryan Tomayko",
+      "date":    "2009-10-19 12:37:58 -0400",
+      "tags":    ["he","his","git","reliable","blog","writing"],
+      "content": "Today marks Ryan Tomayko’s first day as a GitHubber. He’ll be helping make GitHub more stable, reliable, and awesome. Ryan has consistently impressed all of us with his work on Sinatra and Rack, the awesomeness of shotgun and git-sh, his prolific writing and linking, and his various other projects.  http://www.flickr.com/photos/mojombo/ / CC BY-NC-SA 2.0  You can follow his blog, his twitter, or his GitHub Welcome to the team, Ryan!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/d5d63d191e18e88daccdec9bd66df7683419f100/687474703a2f2f696d672e736b697463682e636f6d2f32303039313031392d7278626d35393235743337736a7478696b3275376d34776a35612e6a7067"
+    }
+    ,
+    {
+      "name":    "Kyle Neath",
+      "date":    "2009-10-05 14:20:11 -0400",
+      "tags":    ["he","him","his","code","support","programming","design","open source","blog"],
+      "content": "Today is Kyle Neath’s first hands-on day at GitHub. We’ve all been fans of Kyle for a long time and are super excited to have him. He’ll be using his fantastic design and impressive programming skills to help make GitHub even better. Besides creating Hemingway and designing Tender (GitHub’s support app), Kyle has done a bunch of awesome open source and closed source projects.  For an overview of his past work check out his Joining GitHub blog post. Kyle blogs at Warpspire and tweets and codes as kneath. Welcome to the team, Kyle!",
+      "image":   "https://a248.e.akamai.net/camo.github.com/cfdb928678c10bef76dc98210d839c9564773722/687474703a2f2f696d672e736b697463682e636f6d2f32303039313030352d6b39347936373762797874336978623777316633697868336a342e6a7067"
+    }
+  ]
+}
