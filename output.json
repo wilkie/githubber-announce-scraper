@@ -1,5 +1,5 @@
 {
-  "tags":       ["he", "him", "his", "she", "her", "father", "mother", "gal", "guy", "tool", "ops", "press", "media", "devops", "code", "infrastructure", "database", "developer", "designer", "ux", "ui", "web", "marketing", "seo", "business", "financial", "rails", "operation", "shop", "git", "scm", "scms", "cocoa", "ios", "ruby", "software", "cooking", "enterprise", "support", "administration", "javascript", "supportocat", "community", "linux", "accounting", "creative", "objective-c", "programming", "data mining", "data miner", "training", "api", "rspec", "testing", "test", "contributor", "contribute", "contribution", "sales", "java", "c", "interface", "iphone app", "node.js", "node", "sysadmin", "administration", "administrator", "font", "fonts", "illustrator", "usability", "system", "deployment", "scaling", "server", "css", "design", "reliability", "reliable", "open source", "manager", "blog", "writing", "organization", "organizing", "coordination", "coordinating", "android"],
+  "tags":       ["he", "him", "his", "she", "her", "father", "mother", "gal", "guy", "tool", "ops", "press", "media", "devops", "windows", "code", "infrastructure", "database", "developer", "designer", "ux", "ui", "web", "marketing", "seo", "business", "financial", "rails", "operation", "shop", "git", "scm", "scms", "cocoa", "ios", "ruby", "software", "cooking", "enterprise", "support", "administration", "javascript", "supportocat", "community", "linux", "accounting", "creative", "objective-c", "programming", "data mining", "data miner", "training", "api", "rspec", "testing", "test", "contributor", "contribute", "contribution", "sales", "java", "c", "interface", "iphone app", "node.js", "node", "sysadmin", "administration", "administrator", "font", "fonts", "illustrator", "usability", "system", "deployment", "scaling", "server", "css", "design", "reliability", "reliable", "open source", "manager", "blog", "writing", "organization", "organizing", "coordination", "coordinating", "android"],
   "githubbers": [
     {
       "name":    "Jamie Murai",
@@ -103,7 +103,7 @@
     {
       "name":    "Amy Palamountain",
       "date":    "2013-12-20 21:07:45 -0500",
-      "tags":    ["she","her","code"],
+      "tags":    ["she","her","windows","code"],
       "content": "We're excited that Amy Palamountain has joined GitHub, to level up our Windows team!    Amy is based in Wellington, New Zealand, where she may or may not have made a cameo in the Lord of The Rings series. When not skiing through GitHub HQ and crashing into code, she enjoys hitting the slopes, sampling fine whiskies and beer, and engaging in all the shenanigans.   You can follow her on GitHub and Twitter.",
       "image":   "https://github-camo.global.ssl.fastly.net/9a63681f13b68d1752a5f6bd4c2f860143e2ad64/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031332f68697265732f616d792d706c616d6f756e7461696e2e676966",
       "url":     "https://github.com/blog/1720-amy-palamountain-is-a-githubber"
@@ -418,7 +418,7 @@
     {
       "name":    "Tobias Ahlin",
       "date":    "2013-08-16 18:14:40 -0400",
-      "tags":    ["he","him","designer","design"],
+      "tags":    ["he","him","windows","designer","design"],
       "content": "The design team at GitHub just leveled-up. This week we welcome Tobias Ahlin as a native designer. He'll be focusing on GitHub for Windows, expertly pushing those metro pixels into whitespaced perfection.     Tobias hails from Stockholm, Sweden, where he enjoys basketball, long summer days, and a kind affection for delicious vegetables.  You can follow him on GitHub, Twitter, and Dribbble.",
       "image":   "https://f.cloud.github.com/assets/1680/978562/26a1b9fe-06c1-11e3-9a0f-d18739089db4.gif",
       "url":     "https://github.com/blog/1593-tobias-ahlin-is-a-githubber"
@@ -454,7 +454,7 @@
     {
       "name":    "Brendan Forster",
       "date":    "2013-08-07 13:27:12 -0400",
-      "tags":    ["he","him","his","developer"],
+      "tags":    ["he","him","his","windows","developer"],
       "content": "Some #shiftkeyfacts about @shiftkey:   \"His Mexican wrestler name is 'Hermano Mayor'\" \"His middle name is 'Diplomacy'\" \"He does not speak Klingon\" \"He has had dinner in Paris with a woman claiming to have the largest afro in the world\" \"He once ditched my wedding so he could go to a Legend of Zelda concert\" And the best fact of all, he is now our newest GitHub for Windows developer. Brendan will be hacking on everything Windows'y as well as all kinds of other cool things, out of beautiful Sydney, Australia.     Check him out on GitHub and Twitter",
       "image":   "https://f.cloud.github.com/assets/1396/923230/97e05422-ff41-11e2-8c6e-04fd960c0539.gif",
       "url":     "https://github.com/blog/1575-brendan-forster-is-a-githubber"
@@ -913,7 +913,7 @@
     {
       "name":    "Markus Olsson",
       "date":    "2013-02-04 17:03:19 -0500",
-      "tags":    ["he","him","his","code"],
+      "tags":    ["he","him","his","windows","code"],
       "content": "We’re super excited that Markus Olsson is starting his first day as a GitHubber, working on making the experience of using GitHub on Windows even more awesome.     Markus joins us from Arvika, Sweden – in his spare time, he like long walks on the (cold) fjörds. You can check out his code on GitHub or follow him on Twitter.",
       "image":   "https://github-camo.global.ssl.fastly.net/bd79b6588656bedf92d781ecb0daaedac32e4b5e/687474703a2f2f662e636c2e6c792f6974656d732f3154323230393364315a316e324c325a3149316c2f496d616765253230323031332e30322e3034253230313a35363a3430253230504d2e706e67",
       "url":     "https://github.com/blog/1400-markus-olsson-is-a-githubber"
@@ -1399,7 +1399,7 @@
     {
       "name":    "Drew Miller",
       "date":    "2012-07-09 15:17:21 -0400",
-      "tags":    ["him","his"],
+      "tags":    ["him","his","windows"],
       "content": "Today is Drew Miller's first day as a GitHubber! Drew is going to be helping make Windows a more awesome place for GitHub users. Drew previously worked on the NuGet project at Microsoft along with fellow Hubbernaut Phil Haack. In his spare time, Drew enjoys pen-and-paper RPGs, comic books, and other cool nerdy activities.    Check him out on GitHub and Twitter",
       "image":   "https://github-camo.global.ssl.fastly.net/62f30fcd34fadee84bf055672c946cfcfc9c9da1/687474703a2f2f662e636c2e6c792f6974656d732f3364304f334b314831623437316d3055317233642f496d616765253230323031322e30372e303925323031313a35363a3035253230414d2e706e67",
       "url":     "https://github.com/blog/1188-drew-miller-is-a-githubber"
@@ -1732,7 +1732,7 @@
     {
       "name":    "Adam Roben",
       "date":    "2012-03-05 13:54:19 -0500",
-      "tags":    ["him","his","code","git"],
+      "tags":    ["him","his","windows","code","git"],
       "content": "We are really excited to announce that Adam Roben has joined the team today! Adam is currently based in North Carolina and will be helping us make Git and GitHub even better on Windows as well as being a general cross platform development bad ass. Adam has worked on a variety of notable projects including WebKit which means it is possible that you are running some of his code to read this post.    You may not know Adam now, but from what we've seen so far it won't be long before you are delighted with his work. Go follow him on Twitter and join us in welcoming him to the team!",
       "image":   "https://github-camo.global.ssl.fastly.net/7455b1aace13bb947795c5b0a8f47e1ab84be5dc/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031322f6164616d5f726f62656e2e4a5047",
       "url":     "https://github.com/blog/1072-adam-roben-is-a-githubber"
@@ -1813,7 +1813,7 @@
     {
       "name":    "Phil Haack",
       "date":    "2011-12-07 12:25:44 -0500",
-      "tags":    ["he","him","his","developer","blog"],
+      "tags":    ["he","him","his","windows","developer","blog"],
       "content": "Today we are joined by the one and only Phil Haack. Phil hails from the Seattle area in Washington where he's been leading the development of both ASP.NET MVC and NuGet. He will be helping make GitHub better on many fronts with a special focus on all you Windows developers out there.    There's a good chance you already know Phil, but if you don't, go check out his blog, read one of his books, or follow him on Twitter.  We are very excited to welcome Phil to the team!",
       "image":   "https://github-camo.global.ssl.fastly.net/68141b9d3f0e5f55afa9cc6bdbdc127f1a5cfe32/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622d696d616765732f626c6f672f323031312f5068696c486161636b2e4a5047",
       "url":     "https://github.com/blog/1002-phil-haack-is-a-githubber"
@@ -1966,7 +1966,7 @@
     {
       "name":    "Paul Betts",
       "date":    "2011-08-01 15:00:00 -0400",
-      "tags":    ["he","his","code","ui","support","blog"],
+      "tags":    ["he","his","windows","code","ui","support","blog"],
       "content": "Today marks Paul Betts' first day as a GitHubber. Paul will be helping us make GitHub even better on Windows.  A quick look through some of his GitHub repos shows Paul's experience and eclectic interests: from declarative UI frameworks to CoffeeScript and SASS support for ASP.net, Paul likes to get his hands dirty. It also doesn't hurt that he's been a GitHub user since the beta.       Want more? Read his blog, follow his tweets, or browse his code.  Welcome Paul!",
       "image":   "https://github-camo.global.ssl.fastly.net/7e9ecc023a3260b6600d683a327cd4ab70a5df64/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303830322d78363978656161673679396331396269377234717272733571712e6a7067",
       "url":     "https://github.com/blog/899-paul-betts-is-a-githubber"

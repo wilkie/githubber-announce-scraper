@@ -6,7 +6,7 @@ Bundler.require
 require 'json'
 
 tags = ["he", "him", "his", "she", "her", "father", "mother", "gal", "guy",
-        "tool", "ops", "press", "media", "devops",
+        "tool", "ops", "press", "media", "devops", "windows",
         "code", "infrastructure", "database", "developer", "designer", "ux",
         "ui", "web", "marketing", "seo", "business", "financial", "rails",
         "operation", "shop", "git", "scm", "scms", "cocoa", "ios", "ruby",
