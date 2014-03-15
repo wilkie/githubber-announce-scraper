@@ -1,5 +1,5 @@
 # Reads githubber json files
-# 
+#
 # contains useful query functions
 
 require 'json'

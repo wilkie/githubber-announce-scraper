@@ -4,6 +4,8 @@
 
 require_relative 'library'
 
+puts "# Gender-tagging GitHub Hire Announcements"
+
 dev_tags = ["tool", "ops", "devops",
             "code", "infrastructure", "database", "developer", "ux",
             "ui", "web", "rails",
@@ -27,14 +29,20 @@ def pronouns_men
   ["he", "his", "him", "father", "guy"]
 end
 
-puts "Tagging developers using these tags:"
-puts dev_tags.inspect
-puts ""
-puts "Tagging 'woman' when we seen one of the following:"
-puts pronouns_women.inspect
-puts "In higher number than the following tags for 'man':"
-puts pronouns_men.inspect
-puts ""
+puts "## Description of tags"
+
+puts "### Tags that identify developers"
+puts "```"
+puts dev_tags.join(" ")
+puts "```"
+puts "### Tagging 'woman' when we seen one of the following:"
+puts "```"
+puts pronouns_women.join(" ")
+puts "```"
+puts "### In higher number than the following tags for 'man':"
+puts "```"
+puts pronouns_men.join(" ")
+puts "```"
 
 def female_githubbers
   githubbers_by_tags(pronouns_women)
@@ -71,15 +79,15 @@ men = men.select do |gh|
 end
 
 women.map! do |w|
-  " * #{w['name']}: #{w['tags']}"
+  "* [#{w['name']}](#{w['url']}): #{w['tags']}"
 end
 
-men.map! do |w|
-  " * #{w['name']}: #{w['tags']}"
+men.map! do |m|
+  "* [#{m['name']}](#{m['url']}): #{m['tags']}"
 end
 
-puts "Tagged as 'women':"
+puts "## Tagged as 'women':"
 puts women
 puts ""
-puts "Tagged as 'men':"
+puts "## Tagged as 'men':"
 puts men

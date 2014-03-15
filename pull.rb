@@ -63,7 +63,7 @@ end
 
 idx = 0
 10000.times do |page|
-  feed = Atom::Feed.load_feed(URI.parse("https://github.com/blog.atom?page=#{page + 1}"))
+  feed = Atom::Feed.load_feed(URI.parse("https://github.com/blog/hire.atom?page=#{page + 1}"))
 
   if feed.entries.count == 0
     break
@@ -73,6 +73,7 @@ idx = 0
     if entry.title =~ /is a githubber/i
       # Get first image in article
       doc = Nokogiri::HTML(entry.content)
+      url = entry.links[0].href
       image = doc.xpath('//img').first
 
       # Gather tags
@@ -114,7 +115,8 @@ idx = 0
         puts "      \"date\":    #{date.to_json},"
         puts "      \"tags\":    #{tags_found.to_json},"
         puts "      \"content\": #{content.to_json},"
-        puts "      \"image\":   #{image['src'].to_json}"
+        puts "      \"image\":   #{image['src'].to_json},"
+        puts "      \"url\":     #{url.to_json}"
         puts "    }"
       else
         puts name
