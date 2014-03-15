@@ -27,6 +27,15 @@ def pronouns_men
   ["he", "his", "him", "father", "guy"]
 end
 
+puts "Tagging developers using these tags:"
+puts dev_tags.inspect
+puts ""
+puts "Tagging 'woman' when we seen one of the following:"
+puts pronouns_women.inspect
+puts "In higher number than the following tags for 'man':"
+puts pronouns_men.inspect
+puts ""
+
 def female_githubbers
   githubbers_by_tags(pronouns_women)
 end
@@ -62,13 +71,15 @@ men = men.select do |gh|
 end
 
 women.map! do |w|
-  "#{w['name']}: #{w['tags']}"
+  " * #{w['name']}: #{w['tags']}"
 end
 
 men.map! do |w|
-  "#{w['name']}: #{w['tags']}"
+  " * #{w['name']}: #{w['tags']}"
 end
 
+puts "Tagged as 'women':"
 puts women
-puts "-=-=-=-=-=-"
+puts ""
+puts "Tagged as 'men':"
 puts men
