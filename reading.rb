@@ -7,7 +7,7 @@ require_relative 'library'
 dev_tags = ["tool", "ops", "devops",
             "code", "infrastructure", "database", "developer", "ux",
             "ui", "web", "rails",
-            "operation", "git", "scm", "scms", "cocoa", "ios", "ruby",
+            "git", "scm", "scms", "cocoa", "ios", "ruby",
             "software", "javascript", "linux",
             "objective-c", "programming",
             "api", "rspec", "testing", "test",
@@ -19,23 +19,56 @@ dev_tags = ["tool", "ops", "devops",
             "reliability", "reliable", "open source",
             "android"]
 
+def pronouns_women
+  ["she", "her", "mother", "gal"]
+end
+
+def pronouns_men
+  ["he", "his", "him", "father", "guy"]
+end
+
 def female_githubbers
-  githubbers_by_tags(["she", "her", "mother", "gal"])
+  githubbers_by_tags(pronouns_women)
 end
 
 def male_githubbers
-  githubbers_by_tags(["he", "his", "him", "father", "guy"])
+  githubbers_by_tags(pronouns_men)
 end
 
 women = female_githubbers
 women = women.select do |gh|
-  gh['tags'].index do |t|
+  index = gh['tags'].index do |t|
     dev_tags.include? t
   end
+
+  # ensure there are more female pronouns than male
+  num_pronouns_women = gh['tags'].select{|t| pronouns_women.include?(t) }.length
+  num_pronouns_men   = gh['tags'].select{|t| pronouns_men.include?(t)   }.length
+
+  index && num_pronouns_women > num_pronouns_men
+end
+
+men = male_githubbers
+men = men.select do |gh|
+  index = gh['tags'].index do |t|
+    dev_tags.include? t
+  end
+
+  # ensure there are more male pronouns than female
+  num_pronouns_women = gh['tags'].select{|t| pronouns_women.include?(t) }.length
+  num_pronouns_men   = gh['tags'].select{|t| pronouns_men.include?(t)   }.length
+
+  index && num_pronouns_women < num_pronouns_men
 end
 
 women.map! do |w|
   "#{w['name']}: #{w['tags']}"
 end
 
+men.map! do |w|
+  "#{w['name']}: #{w['tags']}"
+end
+
 puts women
+puts "-=-=-=-=-=-"
+puts men
